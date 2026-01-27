@@ -1,0 +1,1193 @@
+{
+  "name_he": "שיר השירים",
+  "name_en": "Song of Songs",
+  "id": "shir_hashirim",
+  "chapters": {
+    "1": [
+      {
+        "id": "shir_hashirim-1-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 1,
+        "text": "שיר השירים אשר לשךמה",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 2,
+        "text": "ישקני מנשיקות פיהו כי־טובים דדיך מיין",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 3,
+        "text": "לריח שמניך טובים שמן תורק שמך על־כן עלמות אהבוך",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 4,
+        "text": "משכני אחריך נרוצה הביאני המלך חדריו נגילה ונשמחה בך נזכירה דדיך מיין מישרים אהבוך",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 5,
+        "text": "שחורה אני ונאוה בנות ירושל ם כאהלי קדר כיריעות שךמה",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 6,
+        "text": "אל־תראוני שאני שחרחרת ששזפתני השמש בני אמי נחרו־בי שמני נטרה את־הכרמים כרמי שלי ךא נטרתי",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 7,
+        "text": "הגידה לי שאהבה נפשי איכה תרעה איכה תרביץ בצהרים שלמה אהיה כעטיה על עדרי חבריך",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 8,
+        "text": "אם־ךא תדעי לך היפה בנשים צאי־לך בעקבי הצאן ורעי את־גדיתיך על משכנות הרעים",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 9,
+        "text": "לססתי ברכבי פרעה דמיתיך רעיתי",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 10,
+        "text": "נאוו לחייך בתרים צוארך בחרוזים",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 11,
+        "text": "תורי זהב נעשה־לך עם נקדות הכסף",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-12",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 12,
+        "text": "עד־שהמלך במסבו נרדי נתן ריחו",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-13",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 13,
+        "text": "צרור המר ׀ דודי לי בין שדי ילין",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-14",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 14,
+        "text": "אשכל הכפר ׀ דודי לי בכרמי עין גדי",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-15",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 15,
+        "text": "הנך יפה רעיתי הנך יפה עיניך יונים",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-16",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 16,
+        "text": "הנך יפה דודי אף נעים אף־ערשנו רעננה",
+        "page": 880
+      },
+      {
+        "id": "shir_hashirim-1-17",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 1,
+        "verse": 17,
+        "text": "קרות בתינו ארזים (רחיטנו) [רהיטנו] ברותים",
+        "page": 880
+      }
+    ],
+    "2": [
+      {
+        "id": "shir_hashirim-2-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 1,
+        "text": "אני חבצלת השרון שושנת העמקים",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 2,
+        "text": "כשושנה בין החוחים כן רעיתי בין הבנות",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 3,
+        "text": "כתפוח בעצי היער כן דודי בין הבנים בצלו חמדתי וישבתי ופריו מתוק לחכי",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 4,
+        "text": "הביאני אל־בית היין ודגלו עלי אהבה",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 5,
+        "text": "סמכוני באשישות רפדוני בתפוחים כי־חולת אהבה אני",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 6,
+        "text": "שמאלו תחת לראשי וימינו תחבקני",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 7,
+        "text": "השבעתי אתכם בנות ירושל ם בצבאות או באילות השדה אם־תעירו ׀ ואם־תעוררו את־האהבה עד שתחפץ",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 8,
+        "text": "קול דודי הנה־זה בא מדלג על־ההרים מקפץ על־הגבעות",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 9,
+        "text": "דומה דודי לצבי או לעפר האילים הנה־זה עומד אחר כתלנו משגיח מן־החךנות מציץ מן־החרכים",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 10,
+        "text": "ענה דודי ואמר לי קומי לך רעיתי יפתי ולכי־לך",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 11,
+        "text": "כי־הנה הסתו עבר הגשם חלף הלך לו",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-12",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 12,
+        "text": "הנצנים נראו בארץ עת הזמיר הגיע וקול התור נשמע בארצנו",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-13",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 13,
+        "text": "התאנה חנטה פגיה והגפנים ׀ סמדר נתנו ריח קומי (לכי) [לך] רעיתי יפתי ולכי־לך",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-14",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 14,
+        "text": "יונתי בחגוי הסלע בסתר המדרגה הראיני את־מראיך השמיעני את־קולך כי־קולך ערב ומראיך נאוה",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-15",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 15,
+        "text": "אחזו־לנו שעלים שעלים קטנים מחבלים כרמים וכרמינו סמדר",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-16",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 16,
+        "text": "דודי לי ואני לו הרעה בשושנים",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-2-17",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 2,
+        "verse": 17,
+        "text": "עד שיפוח היום ונסו הצללים סב דמה־לך דודי לצבי או לעפר האילים על־הרי בתר",
+        "page": 881
+      }
+    ],
+    "3": [
+      {
+        "id": "shir_hashirim-3-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 1,
+        "text": "על־משכבי בלילות בקשתי את שאהבה נפשי בקשתיו וךא מצאתיו",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-3-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 2,
+        "text": "אקומה נא ואסובבה בעיר בשוקים וברחבות אבקשה את שאהבה נפשי בקשתיו וךא מצאתיו",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-3-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 3,
+        "text": "מצאוני השמרים הסבבים בעיר את שאהבה נפשי ראיתם",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-3-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 4,
+        "text": "כמעט שעברתי מהם עד שמצאתי את שאהבה נפשי אחזתיו וךא ארפנו עד־שהביאתיו אל־בית אמי ואל־חדר הורתי",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-3-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 5,
+        "text": "השבעתי אתכם בנות ירושל ם בצבאות או באילות השדה אם־תעירו ׀ ואם־תעוררו את־האהבה עד שתחפץ",
+        "page": 881
+      },
+      {
+        "id": "shir_hashirim-3-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 6,
+        "text": "מי זאת עלה מן־המדבר כתימרות עשן מקטרת מר ולבונה מכל אבקת רוכל",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-3-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 7,
+        "text": "הנה מטתו שלשךמה ששים גברים סביב לה מגברי ישראל",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-3-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 8,
+        "text": "כלם אחזי חרב מלמדי מלחמה איש חרבו על־ירכו מפחד בלילות",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-3-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 9,
+        "text": "אפריון עשה לו המלך שךמה מעצי הלבנון",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-3-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 10,
+        "text": "עמודיו עשה כסף רפידתו זהב מרכבו ארגמן תוכו רצוף אהבה מבנות ירושל ם",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-3-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 3,
+        "verse": 11,
+        "text": "צאנה ׀ וראינה בנות ציון במלך שךמה בעטרה שעטרה־לו אמו ביום חתנתו וביום שמחת לבו",
+        "page": 882
+      }
+    ],
+    "4": [
+      {
+        "id": "shir_hashirim-4-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 1,
+        "text": "הנך יפה רעיתי הנך יפה עיניך יונים מבעד לצמתך שערך כעדר העזים שגלשו מהר גלעד",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 2,
+        "text": "שניך כעדר הקצובות שעלו מן־הרחצה שכלם מתאימות ושכלה אין בהם",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 3,
+        "text": "כחוט השני שפתותיך ומדברך נאוה כפלח הרמון רקתך מבעד לצמתך",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 4,
+        "text": "כמגדל דויד צוארך בנוי לתלפיות אלף המגן תלוי עליו כל שלטי הגברים",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 5,
+        "text": "שני שדיך כשני עפרים תאומי צביה הרועים בשושנים",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 6,
+        "text": "עד שיפוח היום ונסו הצללים אלך לי אל־הר המור ואל־גבעת הלבונה",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 7,
+        "text": "כלך יפה רעיתי ומום אין בך",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 8,
+        "text": "אתי מלבנון כלה אתי מלבנון תבואי תשורי ׀ מראש אמנה מראש שניר וחרמון ממענות אריות מהררי נמרים",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 9,
+        "text": "לבבתני אחתי כלה לבבתני (באחד) [באחת] מעיניך באחד ענק מצורניך",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 10,
+        "text": "מה־יפו דדיך אחתי כלה מה־טבו דדיך מיין וריח שמניך מכל־בשמים",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 11,
+        "text": "נפת תטפנה שפתותיך כלה דבש וחלב תחת לשונך וריח שלמתיך כריח לבנון",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-12",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 12,
+        "text": "גן ׀ נעול אחתי כלה גל נעול מעין חתום",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-13",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 13,
+        "text": "שלחיך פרדס רמונים עם פרי מגדים כפרים עם־נרדים",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-14",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 14,
+        "text": "נרד ׀ וכרכם קנה וקנמון עם כל־עצי לבונה מר ואהלות עם כל־ראשי בשמים",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-15",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 15,
+        "text": "מעין גנים באר מים חיים ונזלים מן־לבנון",
+        "page": 882
+      },
+      {
+        "id": "shir_hashirim-4-16",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 4,
+        "verse": 16,
+        "text": "עורי צפון ובואי תימן הפיחי גני יזלו בשמיו יבא דודי לגנו ויאכל פרי מגדיו",
+        "page": 882
+      }
+    ],
+    "5": [
+      {
+        "id": "shir_hashirim-5-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 1,
+        "text": "באתי לגני אחתי כלה אריתי מורי עם־בשמי אכלתי יערי עם־דבשי שתיתי ייני עם־חלבי אכלו רעים שתו ושכרו דודים",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 2,
+        "text": "אני ישנה ולבי ער קול ׀ דודי דופק פתחי־לי אחתי רעיתי יונתי תמתי שראשי נמלא־טל קוצותי רסיסי לילה",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 3,
+        "text": "פשטתי את־כתנתי איככה אלבשנה רחצתי את־רגלי איככה אטנפם",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 4,
+        "text": "דודי שלח ידו מן־החר ומעי המו עליו",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 5,
+        "text": "קמתי אני לפתח לדודי וידי נטפו־מור ואצבעתי מור עבר על כפות המנעול",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 6,
+        "text": "פתחתי אני לדודי ודודי חמק עבר נפשי יצאה בדברו בקשתיהו וךא מצאתיהו קראתיו וךא ענני",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 7,
+        "text": "מצאני השמרים הסבבים בעיר הכוני פצעוני נשאו את־רדידי מעלי שמרי החמות",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 8,
+        "text": "השבעתי אתכם בנות ירושל ם אם־תמצאו את־דודי מה־תגידו לו שחולת אהבה אני",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 9,
+        "text": "מה־דודך מדוד היפה בנשים מה־דודך מדוד שככה השבעתנו",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 10,
+        "text": "דודי צח ואדום דגול מרבבה",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 11,
+        "text": "ראשו כתם פז קוצותיו תלתלים שחרות כעורב",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-12",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 12,
+        "text": "עיניו כיונים על־אפיקי מים רחצות בחלב ישבות על־מלאת",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-13",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 13,
+        "text": "לחיו כערוגת הבשם מגדלות מרקחים שפתותיו שושנים נטפות מור עבר",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-14",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 14,
+        "text": "ידיו גלילי זהב ממלאים בתרשיש מעיו עשת שן מעלפת ספירים",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-15",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 15,
+        "text": "שוקיו עמודי שש מיסדים על־אדני־פז מראהו כלבנון בחור כארזים",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-5-16",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 5,
+        "verse": 16,
+        "text": "חכו ממתקים וכלו מחמדים זה דודי וזה רעי בנות ירושל ם",
+        "page": 883
+      }
+    ],
+    "6": [
+      {
+        "id": "shir_hashirim-6-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 1,
+        "text": "אנה הלך דודך היפה בנשים אנה פנה דודך ונבקשנו עמך",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-6-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 2,
+        "text": "דודי ירד לגנו לערגות הבשם לרעות בגנים וללקט שושנים",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-6-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 3,
+        "text": "אני לדודי ודודי לי הרעה בשושנים",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-6-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 4,
+        "text": "יפה את רעיתי כתרצה נאוה כירושל ם אימה כנדגלות",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-6-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 5,
+        "text": "הסבי עיניך מנגדי שהם הרהיבני שערך כעדר העזים שגלשו מן־הגלעד",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-6-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 6,
+        "text": "שניך כעדר הרחלים שעלו מן־הרחצה שכלם מתאימות ושכלה אין בהם",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-6-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 7,
+        "text": "כפלח הרמון רקתך מבעד לצמתך",
+        "page": 883
+      },
+      {
+        "id": "shir_hashirim-6-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 8,
+        "text": "ששים המה מלכות ושמנים פילגשים ועלמות אין מספר",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-6-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 9,
+        "text": "אחת היא יונתי תמתי אחת היא לאמה ברה היא ליולדתה ראוה בנות ויאשרוה מלכות ופילגשים ויהללוה",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-6-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 10,
+        "text": "מי־זאת הנשקפה כמו־שחר יפה כלבנה ברה כחמה אימה כנדגלות",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-6-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 11,
+        "text": "אל־גנת אגוז ירדתי לראות באבי הנחל לראות הפרחה הגפן הנצו הרמנים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-6-12",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 6,
+        "verse": 12,
+        "text": "ךא ידעתי נפשי שמתני מרכבות עמי נדיב",
+        "page": 884
+      }
+    ],
+    "7": [
+      {
+        "id": "shir_hashirim-7-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 1,
+        "text": "שובי שובי השולמית שובי שובי ונחזה־בך מה־תחזו בשולמית כמחלת המחנים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 2,
+        "text": "מה־יפו פעמיך בנעלים בת־נדיב חמוקי ירכיך כמו חלאים מעשה ידי אמן",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 3,
+        "text": "שררך אגן הסהר אל־יחסר המזג בטנך ערמת חטים סוגה בשושנים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 4,
+        "text": "שני שדיך כשני עפרים תאמי צביה",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 5,
+        "text": "צוארך כמגדל השן עיניך ברכות בחשבון על־שער בת־רבים אפך כמגדל הלבנון צופה פני דמשק",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 6,
+        "text": "ראשך עליך ככרמל ודלת ראשך כארגמן מלך אסור ברהטים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 7,
+        "text": "מה־יפית ומה־נעמת אהבה בתענוגים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 8,
+        "text": "זאת קומתך דמתה לתמר ושדיך לאשכלות",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 9,
+        "text": "אמרתי אעלה בתמר אחזה בסנסניו ויהיו־נא שדיך כאשכלות הגפן וריח אפך כתפוחים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 10,
+        "text": "וחכך כיין הטוב הולך לדודי למישרים דובב שפתי ישנים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 11,
+        "text": "אני לדודי ועלי תשוקתו",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-12",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 12,
+        "text": "לכה דודי נצא השדה נלינה בכפרים",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-13",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 13,
+        "text": "נשכימה לכרמים נראה אם־פרחה הגפן פתח הסמדר הנצו הרמונים שם אתן את־דדי לך",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-7-14",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 7,
+        "verse": 14,
+        "text": "הדודאים נתנו־ריח ועל־פתחינו כל־מגדים חדשים גם־ישנים דודי צפנתי לך",
+        "page": 884
+      }
+    ],
+    "8": [
+      {
+        "id": "shir_hashirim-8-1",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 1,
+        "text": "מי יתנך כאח לי יונק שדי אמי אמצאל בחוץ אשקך גם ךא־יבזו לי",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-8-2",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 2,
+        "text": "אנהגך אביאל אל־בית אמי תלמדני אשקך מיין הרקח מעסיס רמני",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-8-3",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 3,
+        "text": "שמאלו תחת ראשי וימינו תחבקני",
+        "page": 884
+      },
+      {
+        "id": "shir_hashirim-8-4",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 4,
+        "text": "השבעתי אתכם בנות ירושל ם מה־תעירו ׀ ומה־תעררו את־האהבה עד שתחפץ",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-5",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 5,
+        "text": "מי זאת עלה מן־המדבר מתרפקת על־דודה תחת התפוח עוררתיך שמה חבלתך אמך שמה חבלה ילדתך",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-6",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 6,
+        "text": "שימני כחותם על־לבך כחותם על־זרועך כי־עזה כמות אהבה קשה כשאול קנאה רשפיה רשפי אש שלהבתיה",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-7",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 7,
+        "text": "מים רבים ךא יוכלו לכבות את־האהבה ונהרות ךא ישטפוה אם־יתן איש את־כל־הון ביתו באהבה בוז יבוזו לו",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-8",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 8,
+        "text": "אחות לנו קטנה ושדים אין לה מה־נעשה לאחתנו ביום שידבר־בה",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-9",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 9,
+        "text": "אם־חומה היא נבנה עליה טירת כסף ואם־דלת היא נצור עליה לוח ארז",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-10",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 10,
+        "text": "אני חומה ושדי כמגדלות אז הייתי בעיניו כמוצאת שלום",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-11",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 11,
+        "text": "כרם היה לשךמה בבעל המון נתן את־הכרם לנטרים איש יבא בפריו אלף כסף",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-12",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 12,
+        "text": "כרמי שלי לפני האלף לך שךמה ומאתים לנטרים את־פריו",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-13",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 13,
+        "text": "היושבת בגנים חברים מקשיבים לקולך השמיעני",
+        "page": 885
+      },
+      {
+        "id": "shir_hashirim-8-14",
+        "book": "שיר השירים",
+        "book_en": "Song of Songs",
+        "book_id": "shir_hashirim",
+        "chapter": 8,
+        "verse": 14,
+        "text": "ברח ׀ דודי ודמה־לך לצבי או לעפר האילים על הרי בשמים",
+        "page": 885
+      }
+    ]
+  }
+}

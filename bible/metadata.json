@@ -1,0 +1,233 @@
+{
+  "total_verses": 22312,
+  "books": [
+    {
+      "id": "bereshit",
+      "name_he": "בראשית",
+      "name_en": "Genesis",
+      "chapter_count": 50
+    },
+    {
+      "id": "shemot",
+      "name_he": "שמות",
+      "name_en": "Exodus",
+      "chapter_count": 40
+    },
+    {
+      "id": "vayikra",
+      "name_he": "ויקרא",
+      "name_en": "Leviticus",
+      "chapter_count": 27
+    },
+    {
+      "id": "bamidbar",
+      "name_he": "במדבר",
+      "name_en": "Numbers",
+      "chapter_count": 36
+    },
+    {
+      "id": "devarim",
+      "name_he": "דברים",
+      "name_en": "Deuteronomy",
+      "chapter_count": 34
+    },
+    {
+      "id": "yehoshua",
+      "name_he": "יהושע",
+      "name_en": "Joshua",
+      "chapter_count": 24
+    },
+    {
+      "id": "shoftim",
+      "name_he": "שופטים",
+      "name_en": "Judges",
+      "chapter_count": 21
+    },
+    {
+      "id": "shmuel_alef",
+      "name_he": "שמואל א",
+      "name_en": "1 Samuel",
+      "chapter_count": 31
+    },
+    {
+      "id": "shmuel_bet",
+      "name_he": "שמואל ב",
+      "name_en": "2 Samuel",
+      "chapter_count": 24
+    },
+    {
+      "id": "melachim_alef",
+      "name_he": "מלכים א",
+      "name_en": "1 Kings",
+      "chapter_count": 22
+    },
+    {
+      "id": "melachim_bet",
+      "name_he": "מלכים ב",
+      "name_en": "2 Kings",
+      "chapter_count": 25
+    },
+    {
+      "id": "yirmiyahu",
+      "name_he": "ירמיהו",
+      "name_en": "Jeremiah",
+      "chapter_count": 52
+    },
+    {
+      "id": "yechezkel",
+      "name_he": "יחזקאל",
+      "name_en": "Ezekiel",
+      "chapter_count": 48
+    },
+    {
+      "id": "hoshea",
+      "name_he": "הושע",
+      "name_en": "Hosea",
+      "chapter_count": 24
+    },
+    {
+      "id": "yoel",
+      "name_he": "יואל",
+      "name_en": "Joel",
+      "chapter_count": 4
+    },
+    {
+      "id": "amos",
+      "name_he": "עמוס",
+      "name_en": "Amos",
+      "chapter_count": 9
+    },
+    {
+      "id": "ovadya",
+      "name_he": "עובדיה",
+      "name_en": "Obadiah",
+      "chapter_count": 1
+    },
+    {
+      "id": "yona",
+      "name_he": "יונה",
+      "name_en": "Jonah",
+      "chapter_count": 4
+    },
+    {
+      "id": "micha",
+      "name_he": "מיכה",
+      "name_en": "Micah",
+      "chapter_count": 7
+    },
+    {
+      "id": "nachum",
+      "name_he": "נחום",
+      "name_en": "Nahum",
+      "chapter_count": 3
+    },
+    {
+      "id": "chavakuk",
+      "name_he": "חבקוק",
+      "name_en": "Habakkuk",
+      "chapter_count": 3
+    },
+    {
+      "id": "tzefanya",
+      "name_he": "צפניה",
+      "name_en": "Zephaniah",
+      "chapter_count": 3
+    },
+    {
+      "id": "chagai",
+      "name_he": "חגי",
+      "name_en": "Haggai",
+      "chapter_count": 2
+    },
+    {
+      "id": "zecharya",
+      "name_he": "זכריה",
+      "name_en": "Zechariah",
+      "chapter_count": 14
+    },
+    {
+      "id": "malachi",
+      "name_he": "מלאכי",
+      "name_en": "Malachi",
+      "chapter_count": 3
+    },
+    {
+      "id": "tehilim",
+      "name_he": "תהלים",
+      "name_en": "Psalms",
+      "chapter_count": 99
+    },
+    {
+      "id": "mishlei",
+      "name_he": "משלי",
+      "name_en": "Proverbs",
+      "chapter_count": 31
+    },
+    {
+      "id": "iyov",
+      "name_he": "איוב",
+      "name_en": "Job",
+      "chapter_count": 42
+    },
+    {
+      "id": "shir_hashirim",
+      "name_he": "שיר השירים",
+      "name_en": "Song of Songs",
+      "chapter_count": 8
+    },
+    {
+      "id": "rut",
+      "name_he": "רות",
+      "name_en": "Ruth",
+      "chapter_count": 4
+    },
+    {
+      "id": "eicha",
+      "name_he": "איכה",
+      "name_en": "Lamentations",
+      "chapter_count": 5
+    },
+    {
+      "id": "kohelet",
+      "name_he": "קהלת",
+      "name_en": "Ecclesiastes",
+      "chapter_count": 12
+    },
+    {
+      "id": "esther",
+      "name_he": "אסתר",
+      "name_en": "Esther",
+      "chapter_count": 10
+    },
+    {
+      "id": "daniel",
+      "name_he": "דניאל",
+      "name_en": "Daniel",
+      "chapter_count": 12
+    },
+    {
+      "id": "ezra",
+      "name_he": "עזרא",
+      "name_en": "Ezra",
+      "chapter_count": 10
+    },
+    {
+      "id": "nechemya",
+      "name_he": "נחמיה",
+      "name_en": "Nehemiah",
+      "chapter_count": 13
+    },
+    {
+      "id": "divrei_hayamim_alef",
+      "name_he": "דברי הימים א",
+      "name_en": "1 Chronicles",
+      "chapter_count": 29
+    },
+    {
+      "id": "divrei_hayamim_bet",
+      "name_he": "דברי הימים ב",
+      "name_en": "2 Chronicles",
+      "chapter_count": 36
+    }
+  ]
+}

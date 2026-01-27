@@ -1,0 +1,6229 @@
+{
+  "name_he": "שופטים",
+  "name_en": "Judges",
+  "id": "shoftim",
+  "chapters": {
+    "1": [
+      {
+        "id": "shoftim-1-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 1,
+        "text": "ויהי אחרי מות יהושע וישאלו בני ישראל ביהוה לאמר מי יעלה־לנו אל־הכנעני בתחלה להלחם בו",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 2,
+        "text": "ויאמר יהוה יהודה יעלה הנה נתתי את־הארץ בידו",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 3,
+        "text": "ויאמר יהודה לשמעון אחיו עלה אתי בגרלי ונלחמה בכנעני והלכתי גם־אני אתך בגורלך וילך אתו שמעון",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 4,
+        "text": "ויעל יהודה ויתן יהוה את־הכנעני והפרזי בידם ויכום בבזק עשרת אלפים איש",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 5,
+        "text": "וימצאו את־אדני בזק בבזק וילחמו בו ויכו את־הכנעני ואת־הפרזי",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 6,
+        "text": "וינס אדני בזק וירדפו אחריו ויאחזו אותו ויקצצו את־בהנות ידיו ורגליו",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 7,
+        "text": "ויאמר אדני־בזק שבעים ׀ מלכים בהנות ידיהם ורגליהם מקצצים היו מלקטים תחת שלחני כאשר עשיתי כן שלם־לי אלהים ויביאהו ירושל ם וימת שם",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 8,
+        "text": "וילחמו בני־יהודה בירושל ם וילכדו אותה ויכוה לפי־חרב ואת־העיר שלחו באש",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 9,
+        "text": "ואחר ירדו בני יהודה להלחם בכנעני יושב ההר והנגב והשפלה",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 10,
+        "text": "וילך יהודה אל־הכנעני היושב בחברון ושם־חברון לפנים קרית ארבע ויכו את־ששי ואת־אחימן ואת־תלמי",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 11,
+        "text": "וילך משם אל־יושבי דביר ושם־דביר לפנים קרית־ספר",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 12,
+        "text": "ויאמר כלב אשר־יכה את־קרית־ספר ולכדה ונתתי לו את־עכסה בתי לאשה",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 13,
+        "text": "וילכדה עתניאל בן־קנז אחי כלב הקטן ממנו ויתן־לו את־עכסה בתו לאשה",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 14,
+        "text": "ויהי בבואה ותסיתהו לשאל מאת־אביה השדה ותצנח מעל החמור ויאמר־לה כלב מה־לך",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 15,
+        "text": "ותאמר לו הבה־לי ברכה כי ארץ הנגב נתתני ונתתה לי גךת מים ויתן־לה כלב את גךת עלית ואת גךת תחתית",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 16,
+        "text": "ובני קיני חתן משה עלו מעיר התמרים את־בני יהודה מדבר יהודה אשר בנגב ערד וילך וישב את־העם",
+        "page": 303
+      },
+      {
+        "id": "shoftim-1-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 17,
+        "text": "וילך יהודה את־שמעון אחיו ויכו את־הכנעני יושב צפת ויחרימו אותה ויקרא את־שם־העיר חרמה",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 18,
+        "text": "וילכד יהודה את־עזה ואת־גבולה ואת־אשקלון ואת־גבולה ואת־עקרון ואת־גבולה",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 19,
+        "text": "ויהי יהוה את־יהודה וירש את־ההר כי ךא להוריש את־ישבי העמק כי־רכב ברזל להם",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 20,
+        "text": "ויתנו לכלב את־חברון כאשר דבר משה ויורש משם את־שךשה בני הענק",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 21,
+        "text": "ואת־היבוסי ישב ירושל ם ךא הורישו בני בנימן וישב היבוסי את־בני בנימן בירושל ם עד היום הזה",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 22,
+        "text": "ויעלו בית־יוסף גם־הם בית־אל ויהוה עמם",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 23,
+        "text": "ויתירו בית־יוסף בבית־אל ושם־העיר לפנים לוז",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 24,
+        "text": "ויראו השמרים איש יוצא מן־העיר ויאמרו לו הראנו נא את־מבוא העיר ועשינו עמך חסד",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 25,
+        "text": "ויראם את־מבוא העיר ויכו את־העיר לפי־חרב ואת־האיש ואת־כל־משפחתו שלחו",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 26,
+        "text": "וילך האיש ארץ החתים ויבן עיר ויקרא שמה לוז הוא שמה עד היום הזה",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 27,
+        "text": "וךא־הוריש מנשה את־בית־שאן ואת־בנותיה ואת־תענך ואת־בנתיה ואת־[יושבי] (יושב) דור ואת־בנותיה ואת־יושבי יבלעם ואת־בנתיה ואת־יושבי מגדו ואת־בנותיה ויואל הכנעני לשבת בארץ הזאת",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 28,
+        "text": "ויהי כי־חזק ישראל וישם את־הכנעני למס והוריש ךא הורישו",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 29,
+        "text": "ואפרים ךא הוריש את־הכנעני היושב בגזר וישב הכנעני בקרבו בגזר",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 30,
+        "text": "זבולן ךא הוריש את־יושבי קטרון ואת־יושבי נהךל וישב הכנעני בקרבו ויהיו למס",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 31,
+        "text": "אשר ךא הוריש את־ישבי עכו ואת־יושבי צידון ואת־אחלב ואת־אכזיב ואת־חלבה ואת־אפיק ואת־רחב",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-32",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 32,
+        "text": "וישב האשרי בקרב הכנעני ישבי הארץ כי ךא הורישו",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-33",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 33,
+        "text": "נפתלי ךא־הוריש את־ישבי בית־שמש ואת־ישבי בית־ענת וישב בקרב הכנעני ישבי הארץ וישבי בית־שמש ובית ענת היו להם למס",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-34",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 34,
+        "text": "וילחצו האמרי את־בני־דן ההרה כי־ךא נתנו לרדת לעמק",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-35",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 35,
+        "text": "ויואל האמרי לשבת בהר־חרס באילון ובשעלבים ותכבד יד בית־יוסף ויהיו למס",
+        "page": 304
+      },
+      {
+        "id": "shoftim-1-36",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 1,
+        "verse": 36,
+        "text": "וגבול האמרי ממעלה עקרבים מהסלע ומעלה",
+        "page": 304
+      }
+    ],
+    "2": [
+      {
+        "id": "shoftim-2-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 1,
+        "text": "ויעל מלאל־יהוה מן־הגלגל אל־הבכים ויאמר אעלה אתכם ממצרים ואביא אתכם אל־הארץ אשר נשבעתי לאבתיכם ואמר ךא־אפר בריתי אתכם לעולם",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 2,
+        "text": "ואתם ךא־תכרתו ברית ליושבי הארץ הזאת מזבחותיהם תתצון וךא־שמעתם בקולי מה־זאת עשיתם",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 3,
+        "text": "וגם אמרתי ךא־אגרש אותם מפניכם והיו לכם לצדים ואלהיהם יהיו לכם למוקש",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 4,
+        "text": "ויהי כדבר מלאל יהוה את־הדברים האלה אל־כל־בני ישראל וישאו העם את־קולם ויבכו",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 5,
+        "text": "ויקראו שם־המקום ההוא בכים ויזבחו־שם ליהוה",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 6,
+        "text": "וישלח יהושע את־העם וילכו בני־ישראל איש לנחלתו לרשת את־הארץ",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 7,
+        "text": "ויעבדו העם את־יהוה כל ימי יהושע וכל ׀ ימי הזקנים אשר האריכו ימים אחרי יהושוע אשר ראו את כל־מעשה יהוה הגדול אשר עשה לישראל",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 8,
+        "text": "וימת יהושע בן־נון עבד יהוה בן־מאה ועשר שנים",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 9,
+        "text": "ויקברו אותו בגבול נחלתו בתמנת־חרס בהר אפרים מצפון להר־געש",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 10,
+        "text": "וגם כל־הדור ההוא נאספו אל־אבותיו ויקם דור אחר אחריהם אשר ךא־ידעו את־יהוה וגם את־המעשה אשר עשה לישראל",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 11,
+        "text": "ויעשו בני־ישראל את־הרע בעיני יהוה ויעבדו את־הבעלים",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 12,
+        "text": "ויעזבו את־יהוה ׀ אלהי אבותם המוציא אותם מארץ מצרים וילכו אחרי ׀ אלהים אחרים מאלהי העמים אשר סביבותיהם וישתחוו להם ויכעסו את־יהוה",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 13,
+        "text": "ויעזבו את־יהוה ויעבדו לבעל ולעשתרות",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 14,
+        "text": "ויחר־אף יהוה בישראל ויתנם ביד־שסים וישסו אותם וימכרם ביד אויביהם מסביב וךא־יכלו עוד לעמד לפני אויביהם",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 15,
+        "text": "בכל ׀ אשר יצאו יד־יהוה היתה־בם לרעה כאשר דבר יהוה וכאשר נשבע יהוה להם ויצר להם מאד",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 16,
+        "text": "ויקם יהוה שפטים ויושיעום מיד שסיהם",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 17,
+        "text": "וגם אל־שפטיהם ךא שמעו כי זנו אחרי אלהים אחרים וישתחוו להם סרו מהר מן־הדרך אשר הלכו אבותם לשמע מצות־יהוה ךא־עשו כן",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 18,
+        "text": "וכי־הקים יהוה ׀ להם שפטים והיה יהוה עם־השפט והושיעם מיד איביהם כל ימי השופט כי־ינחם יהוה מנאקתם מפני ךחציהם ודחקיהם",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 19,
+        "text": "והיה ׀ במות השופט ישבו והשחיתו מאבותם ללכת אחרי אלהים אחרים לעבדם ולהשתחות להם ךא הפילו ממעלליהם ומדרכם הקשה",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 20,
+        "text": "ויחר־אף יהוה בישראל ויאמר יען אשר עברו הגוי הזה את־בריתי אשר צויתי את־אבותם וךא שמעו לקולי",
+        "page": 305
+      },
+      {
+        "id": "shoftim-2-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 21,
+        "text": "גם־אני ךא אוסיף להוריש איש מפניהם מן־הגוים אשר־עזב יהושע וימת",
+        "page": 306
+      },
+      {
+        "id": "shoftim-2-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 22,
+        "text": "למען נסות בם את־ישראל השמרים הם את־דרך יהוה ללכת בם כאשר שמרו אבותם אם־ךא",
+        "page": 306
+      },
+      {
+        "id": "shoftim-2-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 2,
+        "verse": 23,
+        "text": "וינח יהוה את־הגוים האלה לבלתי הורישם מהר וךא נתנם ביד־יהושע",
+        "page": 306
+      }
+    ],
+    "3": [
+      {
+        "id": "shoftim-3-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 1,
+        "text": "ואלה הגוים אשר הניח יהוה לנסות בם את־ישראל את כל־אשר ךא־ידעו את כל־מלחמות כנען",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 2,
+        "text": "רק למען דעת דרות בני־ישראל ללמדם מלחמה רק אשר־לפנים ךא ידעום",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 3,
+        "text": "חמשת ׀ סרני פלשתים וכל־הכנעני והצידני והחוי ישב הר הלבנון מהר בעל חרמון עד לבוא חמת",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 4,
+        "text": "ויהיו לנסות בם את־ישראל לדעת הישמעו את־מצות יהוה אשר־צוה את־אבותם ביד־משה",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 5,
+        "text": "ובני ישראל ישבו בקרב הכנעני החתי והאמרי והפרזי והחוי והיבוסי",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 6,
+        "text": "ויקחו את־בנותיהם להם לנשים ואת־בנותיהם נתנו לבניהם ויעבדו את־אלהיהם",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 7,
+        "text": "ויעשו בני־ישראל את־הרע בעיני יהוה וישכחו את־יהוה אלהיהם ויעבדו את־הבעלים ואת־האשרות",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 8,
+        "text": "ויחר־אף יהוה בישראל וימכרם ביד כושן רשעתים מלך ארם נהרים ויעבדו בני־ישראל את־כושן רשעתים שמנה שנים",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 9,
+        "text": "ויזעקו בני־ישראל אל־יהוה ויקם יהוה מושיע לבני ישראל וישיעם את עתניאל בן־קנז אחי כלב הקטן ממנו",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 10,
+        "text": "ותהי עליו רוח־יהוה וישפט את־ישראל ויצא למלחמה ויתן יהוה בידו את־כושן רשעתים מלך ארם ותעז ידו על כושן רשעתים",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 11,
+        "text": "ותשקט הארץ ארבעים שנה וימת עתניאל בן־קנז",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 12,
+        "text": "ויספו בני ישראל לעשות הרע בעיני יהוה ויחזק יהוה את־עגלון מלך־מואב על־ישראל על כי־עשו את־הרע בעיני יהוה",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 13,
+        "text": "ויאסף אליו את־בני עמון ועמלק וילך ויך את־ישראל ויירשו את־עיר התמרים",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 14,
+        "text": "ויעבדו בני־ישראל את־עגלון מלך־מואב שמונה עשרה שנה",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 15,
+        "text": "ויזעקו בני־ישראל אל־יהוה ויקם יהוה להם מושיע את־אהוד בן־גרא בן־הימיני איש אטר יד־ימינו וישלחו בני־ישראל בידו מנחה לעגלון מלך מואב",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 16,
+        "text": "ויעש לו אהוד חרב ולה שני פיות גמד ארכה ויחגר אותה מתחת למדיו על ירך ימינו",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 17,
+        "text": "ויקרב את־המנחה לעגלון מלך מואב ועגלון איש בריא מאד",
+        "page": 306
+      },
+      {
+        "id": "shoftim-3-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 18,
+        "text": "ויהי כאשר כלה להקריב את־המנחה וישלח את־העם נשאי המנחה",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 19,
+        "text": "והוא שב מן־הפסילים אשר את־הגלגל ויאמר דבר־סתר לי אליך המלך ויאמר הס ויצאו מעליו כל־העמדים עליו",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 20,
+        "text": "ואהוד ׀ בא אליו והוא־ישב בעלית המקרה אשר־לו לבדו ויאמר אהוד דבר־אלהים לי אליך ויקם מעל הכסא",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 21,
+        "text": "וישלח אהוד את־יד שמאלו ויקח את־החרב מעל ירך ימינו ויתקעה בבטנו",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 22,
+        "text": "ויבא גם־הנצב אחר הלהב ויסגר החלב בעד הלהב כי ךא שלף החרב מבטנו ויצא הפרשדנה",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 23,
+        "text": "ויצא אהוד המסדרונה ויסגר דלתות העליה בעדו ונעל",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 24,
+        "text": "והוא יצא ועבדיו באו ויראו והנה דלתות העליה נעלות ויאמרו אל מסיך הוא את־רגליו בחדר המקרה",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 25,
+        "text": "ויחילו עד־בוש והנה איננו פתח דלתות העליה ויקחו את־המפתח ויפתחו והנה אדניהם נפל ארצה מת",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 26,
+        "text": "ואהוד נמלט עד התמהמהם והוא עבר את־הפסילים וימלט השעירתה",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 27,
+        "text": "ויהי בבואו ויתקע בשופר בהר אפרים וירדו עמו בני־ישראל מן־ההר והוא לפניהם",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 28,
+        "text": "ויאמר אלהם רדפו אחרי כי־נתן יהוה את־איביכם את־מואב בידכם וירדו אחריו וילכדו את־מעברות הירדן למואב וךא־נתנו איש לעבר",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 29,
+        "text": "ויכו את־מואב בעת ההיא כעשרת אלפים איש כל־שמן וכל־איש חיל וךא נמלט איש",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 30,
+        "text": "ותכנע מואב ביום ההוא תחת יד ישראל ותשקט הארץ שמונים שנה",
+        "page": 307
+      },
+      {
+        "id": "shoftim-3-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 3,
+        "verse": 31,
+        "text": "ואחריו היה שמגר בן־ענת ויך את־פלשתים שש־מאות איש במלמד הבקר ויושע גם־הוא את־ישראל",
+        "page": 307
+      }
+    ],
+    "4": [
+      {
+        "id": "shoftim-4-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 1,
+        "text": "ויספו בני ישראל לעשות הרע בעיני יהוה ואהוד מת",
+        "page": 307
+      },
+      {
+        "id": "shoftim-4-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 2,
+        "text": "וימכרם יהוה ביד יבין מלך־כנען אשר מלך בחצור ושר־צבאו סיסרא והוא יושב בחרשת הגוים",
+        "page": 307
+      },
+      {
+        "id": "shoftim-4-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 3,
+        "text": "ויצעקו בני־ישראל אל־יהוה כי תשע מאות רכב־ברזל לו והוא לחץ את־בני ישראל בחזקה עשרים שנה",
+        "page": 307
+      },
+      {
+        "id": "shoftim-4-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 4,
+        "text": "ודבורה אשה נביאה אשת לפידות היא שפטה את־ישראל בעת ההיא",
+        "page": 307
+      },
+      {
+        "id": "shoftim-4-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 5,
+        "text": "והיא יושבת תחת־תמר דבורה בין הרמה ובין בית־אל בהר אפרים ויעלו אליה בני ישראל למשפט",
+        "page": 307
+      },
+      {
+        "id": "shoftim-4-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 6,
+        "text": "ותשלח ותקרא לברק בן־אבינעם מקדש נפתלי ותאמר אליו הךא צוה ׀ יהוה אלהי־ישראל לך ומשכת בהר תבור ולקחת עמך עשרת אלפים איש מבני נפתלי ומבני זבלון",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 7,
+        "text": "ומשכתי אליך אל־נחל קישון את־סיסרא שר־צבא יבין ואת־רכבו ואת־המונו ונתתיהו בידך",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 8,
+        "text": "ויאמר אליה ברק אם־תלכי עמי והלכתי ואם־ךא תלכי עמי ךא אלך",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 9,
+        "text": "ותאמר הךך אלך עמך אפס כי ךא תהיה תפארתך על־הדרך אשר אתה הולך כי ביד־אשה ימכר יהוה את־סיסרא ותקם דבורה ותלך עם־ברק קדשה",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 10,
+        "text": "ויזעק ברק את־זבולן ואת־נפתלי קדשה ויעל ברגליו עשרת אלפי איש ותעל עמו דבורה",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 11,
+        "text": "וחבר הקיני נפרד מקין מבני חבב חתן משה ויט אהלו עד־אילון (בצענים) [בצעננים] אשר את־קדש",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 12,
+        "text": "ויגדו לסיסרא כי עלה ברק בן־אבינעם הר־תבור",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 13,
+        "text": "ויזעק סיסרא את־כל־רכבו תשע מאות רכב ברזל ואת־כל־העם אשר אתו מחרשת הגוים אל־נחל קישון",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 14,
+        "text": "ותאמר דברה אל־ברק קום כי זה היום אשר נתן יהוה את־סיסרא בידך הךא יהוה יצא לפניך וירד ברק מהר תבור ועשרת אלפים איש אחריו",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 15,
+        "text": "ויהם יהוה את־סיסרא ואת־כל־הרכב ואת־כל־המחנה לפי־חרב לפני ברק וירד סיסרא מעל המרכבה וינס ברגליו",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 16,
+        "text": "וברק רדף אחרי הרכב ואחרי המחנה עד חרשת הגוים ויפל כל־מחנה סיסרא לפי־חרב ךא נשאר עד־אחד",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 17,
+        "text": "וסיסרא נס ברגליו אל־אהל יעל אשת חבר הקיני כי שלום בין יבין מלך־חצור ובין בית חבר הקיני",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 18,
+        "text": "ותצא יעל לקראת סיסרא ותאמר אליו סורה אדני סורה אלי אל־תירא ויסר אליה האהלה ותכסהו בשמיכה",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 19,
+        "text": "ויאמר אליה השקיני־נא מעט־מים כי צמאתי ותפתח את־נאוד החלב ותשקהו ותכסהו",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 20,
+        "text": "ויאמר אליה עמד פתח האהל והיה אם־איש יבא ושאלך ואמר היש־פה איש ואמרת אין",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 21,
+        "text": "ותקח יעל אשת־חבר את־יתד האהל ותשם את־המקבת בידה ותבוא אליו בלאט ותתקע את־היתד ברקתו ותצנח בארץ והוא־נרדם ויעף וימת",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 22,
+        "text": "והנה ברק רדף את־סיסרא ותצא יעל לקראתו ותאמר לו לך ואראך את־האיש אשר־אתה מבקש ויבא אליה והנה סיסרא נפל מת והיתד ברקתו",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 23,
+        "text": "ויכנע אלהים ביום ההוא את יבין מלך־כנען לפני בני ישראל",
+        "page": 308
+      },
+      {
+        "id": "shoftim-4-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 4,
+        "verse": 24,
+        "text": "ותלך יד בני־ישראל הלוך וקשה על יבין מלך־כנען עד אשר הכריתו את יבין מלך־כנען",
+        "page": 308
+      }
+    ],
+    "5": [
+      {
+        "id": "shoftim-5-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 1,
+        "text": "ותשר דבורה וברק בן־אבינעם ביום ההוא לאמר",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 2,
+        "text": "בפרע פרעות בישראל בהתנדב עם ברכו יהוה",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 3,
+        "text": "שמעו מלכים האזינו רזנים אנכי ליהוה אנכי אשירה אזמר ליהוה אלהי ישראל",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 4,
+        "text": "יהוה בצאתך משעיר בצעדך משדה אדום ארץ רעשה גם־שמים נטפו גם־עבים נטפו מים",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 5,
+        "text": "הרים נזלו מפני יהוה זה סיני מפני יהוה אלהי ישראל",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 6,
+        "text": "בימי שמגר בן־ענת בימי יעל חדלו ארחות והלכי נתיבות ילכו ארחות עקלקלות",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 7,
+        "text": "חדלו פרזון בישראל חדלו עד שקמתי דבורה שקמתי אם בישראל",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 8,
+        "text": "יבחר אלהים חדשים אז לחם שערים מגן אם־יראה ורמח בארבעים אלף בישראל",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 9,
+        "text": "לבי לחוקקי ישראל המתנדבים בעם ברכו יהוה",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 10,
+        "text": "רכבי אתנות צחרות ישבי על־מדין והלכי על־דרך שיחו",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 11,
+        "text": "מקול מחצצים בין משאבים שם יתנו צדקות יהוה צדקת פרזונו בישראל אז ירדו לשערים עם־יהוה",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 12,
+        "text": "עורי עורי דבורה עורי עורי דברי־שיר קום ברק ושבה שביך בן־אבינעם",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 13,
+        "text": "אז ירד שריד לאדירים עם יהוה ירד־לי בגבורים",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 14,
+        "text": "מני אפרים שרשם בעמלק אחריך בנימין בעממיך מני מכיר ירדו מחקקים ומזבולן משכים בשבט ספר",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 15,
+        "text": "ושרי ביששכר עם־דברה ויששכר כן ברק בעמק שלח ברגליו בפלגות ראובן גדלים חקקי־לב",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 16,
+        "text": "למה ישבת בין המשפתים לשמע שרקות עדרים לפלגות ראובן גדולים חקרי־לב",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 17,
+        "text": "גלעד בעבר הירדן שכן ודן למה יגור אניות אשר ישב לחוף ימים ועל מפרציו ישכון",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 18,
+        "text": "זבלון עם חרף נפשו למות ונפתלי על מרומי שדה",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 19,
+        "text": "באו מלכים נלחמו אז נלחמו מלכי כנען בתענך על־מי מגדו בצע כסף ךא לקחו",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 20,
+        "text": "מן־שמים נלחמו הכוכבים ממסלותם נלחמו עם־סיסרא",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 21,
+        "text": "נחל קישון גרפם נחל קדומים נחל קישון תדרכי נפשי עז",
+        "page": 309
+      },
+      {
+        "id": "shoftim-5-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 22,
+        "text": "אז הלמו עקבי־סוס מדהרות דהרות אביריו",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 23,
+        "text": "אורו מרוז אמר מלאל יהוה ארו ארור ישביה כי ךא־באו לעזרת יהוה לעזרת יהוה בגבורים",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 24,
+        "text": "תברך מנשים יעל אשת חבר הקיני מנשים באהל תברך",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 25,
+        "text": "מים שאל חלב נתנה בספל אדירים הקריבה חמאה",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 26,
+        "text": "ידה ליתד תשלחנה וימינה להלמות עמלים והלמה סיסרא מחקה ראשו ומחצה וחלפה רקתו",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 27,
+        "text": "בין רגליה כרע נפל שכב בין רגליה כרע נפל באשר כרע שם נפל שדוד",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 28,
+        "text": "בעד החלון נשקפה ותיבב אם סיסרא בעד האשנב מדוע בשש רכבו לבוא מדוע אחרו פעמי מרכבותיו",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 29,
+        "text": "חכמות שרותיה תענינה אף־היא תשיב אמריה לה",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 30,
+        "text": "הךא ימצאו יחלקו שלל רחם רחמתים לראש גבר שלל צבעים לסיסרא שלל צבעים רקמה צבע רקמתים לצוארי שלל",
+        "page": 310
+      },
+      {
+        "id": "shoftim-5-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 5,
+        "verse": 31,
+        "text": "כן יאבדו כל־אויביך יהוה ואהביו כצאת השמש בגברתו ותשקט הארץ ארבעים שנה",
+        "page": 310
+      }
+    ],
+    "6": [
+      {
+        "id": "shoftim-6-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 1,
+        "text": "ויעשו בני־ישראל הרע בעיני יהוה ויתנם יהוה ביד־מדין שבע שנים",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 2,
+        "text": "ותעז יד־מדין על־ישראל מפני מדין עשו להם ׀ בני ישראל את־המנהרות אשר בהרים ואת־המערות ואת־המצדות",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 3,
+        "text": "והיה אם־זרע ישראל ועלה מדין ועמלק ובני־קדם ועלו עליו",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 4,
+        "text": "ויחנו עליהם וישחיתו את־יבול הארץ עד־בואל עזה וךא־ישאירו מחיה בישראל ושה ושור וחמור",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 5,
+        "text": "כי הם ומקניהם יעלו ואהליהם (יבאו) [ובאו] כדי־ארבה לרב ולהם ולגמליהם אין מספר ויבאו בארץ לשחתה",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 6,
+        "text": "וידל ישראל מאד מפני מדין ויזעקו בני־ישראל אל־יהוה",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 7,
+        "text": "ויהי כי־זעקו בני־ישראל אל־יהוה על אדות מדין",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 8,
+        "text": "וישלח יהוה איש נביא אל־בני ישראל ויאמר להם כה־אמר יהוה ׀ אלהי ישראל אנכי העליתי אתכם ממצרים ואציא אתכם מבית עבדים",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 9,
+        "text": "ואצל אתכם מיד מצרים ומיד כל־ךחציכם ואגרש אותם מפניכם ואתנה לכם את־ארצם",
+        "page": 310
+      },
+      {
+        "id": "shoftim-6-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 10,
+        "text": "ואמרה לכם אני יהוה אלהיכם ךא תיראו את־אלהי האמרי אשר אתם יושבים בארצם וךא שמעתם בקולי",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 11,
+        "text": "ויבא מלאל יהוה וישב תחת האלה אשר בעפרה אשר ליואש אבי העזרי וגדעון בנו חבט חטים בגת להניס מפני מדין",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 12,
+        "text": "וירא אליו מלאל יהוה ויאמר אליו יהוה עמך גבור החיל",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 13,
+        "text": "ויאמר אליו גדעון בי אדני ויש יהוה עמנו ולמה מצאתנו כל־זאת ואיה כל־נפלאתיו אשר ספרו־לנו אבותינו לאמר הךא ממצרים העלנו יהוה ועתה נטשנו יהוה ויתננו בכף־מדין",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 14,
+        "text": "ויפן אליו יהוה ויאמר לך בכחך זה והושעת את־ישראל מכף מדין הךא שלחתיך",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 15,
+        "text": "ויאמר אליו בי אדני במה אושיע את־ישראל הנה אלפי הדל במנשה ואנכי הצעיר בבית אבי",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 16,
+        "text": "ויאמר אליו יהוה כי אהיה עמך והכית את־מדין כאיש אחד",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 17,
+        "text": "ויאמר אליו אם־נא מצאתי חן בעיניך ועשית לי אות שאתה מדבר עמי",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 18,
+        "text": "אל־נא תמש מזה עד־באי אליך והצאתי את־מנחתי והנחתי לפניך ויאמר אנכי אשב עד שובך",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 19,
+        "text": "וגדעון בא ויעש גדי־עזים ואיפת־קמח מצות הבשר שם בסל והמרק שם בפרור ויוצא אליו אל־תחת האלה ויגש",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 20,
+        "text": "ויאמר אליו מלאל האלהים קח את־הבשר ואת־המצות והנח אל־הסלע הלז ואת־המרק שפוך ויעש כן",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 21,
+        "text": "וישלח מלאל יהוה את־קצה המשענת אשר בידו ויגע בבשר ובמצות ותעל האש מן־הצור ותאכל את־הבשר ואת־המצות ומלאל יהוה הלך מעיניו",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 22,
+        "text": "וירא גדעון כי־מלאל יהוה הוא ויאמר גדעון אהה אדני יהוה כי־על־כן ראיתי מלאל יהוה פנים אל־פנים",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 23,
+        "text": "ויאמר לו יהוה שלום לך אל־תירא לא תמות",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 24,
+        "text": "ויבן שם גדעון מזבח ליהוה ויקרא־לו יהוה שלום עד היום הזה עודנו בעפרת אבי העזרי",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 25,
+        "text": "ויהי בלילה ההוא ויאמר לו יהוה קח את־פר־השור אשר לאביך ופר השני שבע שנים והרסת את־מזבח הבעל אשר לאביך ואת־האשרה אשר־עליו תכרת",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 26,
+        "text": "ובנית מזבח ליהוה אלהיך על ראש המעוז הזה במערכה ולקחת את־הפר השני והעלית עולה בעצי האשרה אשר תכרת",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 27,
+        "text": "ויקח גדעון עשרה אנשים מעבדיו ויעש כאשר דבר אליו יהוה ויהי כאשר ירא את־בית אביו ואת־אנשי העיר מעשות יומם ויעש לילה",
+        "page": 311
+      },
+      {
+        "id": "shoftim-6-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 28,
+        "text": "וישכימו אנשי העיר בבקר והנה נתץ מזבח הבעל והאשרה אשר־עליו כרתה ואת הפר השני העלה על־המזבח הבנוי",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 29,
+        "text": "ויאמרו איש אל־רעהו מי עשה הדבר הזה וידרשו ויבקשו ויאמרו גדעון בן־יואש עשה הדבר הזה",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 30,
+        "text": "ויאמרו אנשי העיר אל־יואש הוצא את־בנך וימת כי נתץ את־מזבח הבעל וכי כרת האשרה אשר־עליו",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 31,
+        "text": "ויאמר יואש לכל אשר־עמדו עליו האתם ׀ תריבון לבעל אם־אתם תושיעון אותו אשר יריב לו יומת עד־הבקר אם־אלהים הוא ירב לו כי נתץ את־מזבחו",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-32",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 32,
+        "text": "ויקרא־לו ביום־ההוא ירבעל לאמר ירב בו הבעל כי נתץ את־מזבחו",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-33",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 33,
+        "text": "וכל־מדין ועמלק ובני־קדם נאספו יחדו ויעברו ויחנו בעמק יזרעאל",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-34",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 34,
+        "text": "ורוח יהוה לבשה את־גדעון ויתקע בשופר ויזעק אביעזר אחריו",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-35",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 35,
+        "text": "ומלאכים שלח בכל־מנשה ויזעק גם־הוא אחריו ומלאכים שלח באשר ובזבלון ובנפתלי ויעלו לקראתם",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-36",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 36,
+        "text": "ויאמר גדעון אל־האלהים אם־ישך מושיע בידי את־ישראל כאשר דברת",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-37",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 37,
+        "text": "הנה אנכי מציג את־גזת הצמר בגרן אם טל יהיה על־הגזה לבדה ועל־כל־הארץ חרב וידעתי כי־תושיע בידי את־ישראל כאשר דברת",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-38",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 38,
+        "text": "ויהי־כן וישכם ממחרת ויזר את־הגזה וימץ טל מן־הגזה מלוא הספל מים",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-39",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 39,
+        "text": "ויאמר גדעון אל־האלהים אל־יחר אפך בי ואדברה אל הפעם אנסה נא־רק־הפעם בגזה יהי־נא חרב אל־הגזה לבדה ועל־כל־הארץ יהיה־טל",
+        "page": 312
+      },
+      {
+        "id": "shoftim-6-40",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 6,
+        "verse": 40,
+        "text": "ויעש אלהים כן בלילה ההוא ויהי־חרב אל־הגזה לבדה ועל־כל־הארץ היה טל",
+        "page": 312
+      }
+    ],
+    "7": [
+      {
+        "id": "shoftim-7-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 1,
+        "text": "וישכם ירבעל הוא גדעון וכל־העם אשר אתו ויחנו על־עין חרד ומחנה מדין היה־לו מצפון מגבעת המורה בעמק",
+        "page": 312
+      },
+      {
+        "id": "shoftim-7-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 2,
+        "text": "ויאמר יהוה אל־גדעון רב העם אשר אתך מתתי את־מדין בידם פן־יתפאר עלי ישראל לאמר ידי הושיעה לי",
+        "page": 312
+      },
+      {
+        "id": "shoftim-7-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 3,
+        "text": "ועתה קרא נא באזני העם לאמר מי־ירא וחרד ישב ויצפר מהר הגלעד וישב מן־העם עשרים ושנים אלף ועשרת אלפים נשארו",
+        "page": 312
+      },
+      {
+        "id": "shoftim-7-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 4,
+        "text": "ויאמר יהוה אל־גדעון עוד העם רב הורד אותם אל־המים ואצרפנו לך שם והיה אשר אמר אליך זה ׀ ילך אתך הוא ילך אתך וכל אשר־אמר אליך זה ךא־ילך עמך הוא לא ילך",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 5,
+        "text": "ויורד את־העם אל־המים ויאמר יהוה אל־גדעון כל אשר־יךק בלשונו מן־המים כאשר יךק הכלב תציג אותו לבד וכל אשר־יכרע על־ברכיו לשתות",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 6,
+        "text": "ויהי מספר המלקקים בידם אל־פיהם שךש מאות איש וכל יתר העם כרעו על־ברכיהם לשתות מים",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 7,
+        "text": "ויאמר יהוה אל־גדעון בשךש מאות האיש המלקקים אושיע אתכם ונתתי את־מדין בידך וכל־העם ילכו איש למקמו",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 8,
+        "text": "ויקחו את־צדה העם בידם ואת שופרתיהם ואת כל־איש ישראל שלח איש לאהליו ובשךש־מאות האיש החזיק ומחנה מדין היה לו מתחת בעמק",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 9,
+        "text": "ויהי בלילה ההוא ויאמר אליו יהוה קום רד במחנה כי נתתיו בידך",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 10,
+        "text": "ואם־ירא אתה לרדת רד אתה ופרה נערך אל־המחנה",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 11,
+        "text": "ושמעת מה־ידברו ואחר תחזקנה ידיך וירדת במחנה וירד הוא ופרה נערו אל־קצה החמשים אשר במחנה",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 12,
+        "text": "ומדין ועמלק וכל־בני־קדם נפלים בעמק כארבה לרב ולגמליהם אין מספר כחול שעל־שפת הים לרב",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 13,
+        "text": "ויבא גדעון והנה־איש מספר לרעהו חלום ויאמר הנה חלום חלמתי והנה צליל לחם שערים מתהפך במחנה מדין ויבא עד־האהל ויכהו ויפל ויהפכהו למעלה ונפל האהל",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 14,
+        "text": "ויען רעהו ויאמר אין זאת בלתי אם־חרב גדעון בן־יואש איש ישראל נתן האלהים בידו את־מדין ואת־כל־המחנה",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 15,
+        "text": "ויהי כשמע גדעון את־מספר החלום ואת־שברו וישתחו וישב אל־מחנה ישראל ויאמר קומו כי־נתן יהוה בידכם את־מחנה מדין",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 16,
+        "text": "ויחץ את־שךש־מאות האיש שךשה ראשים ויתן שופרות ביד־כלם וכדים ריקים ולפדים בתוך הכדים",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 17,
+        "text": "ויאמר אליהם ממני תראו וכן תעשו והנה אנכי בא בקצה המחנה והיה כאשר־אעשה כן תעשון",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 18,
+        "text": "ותקעתי בשופר אנכי וכל־אשר אתי ותקעתם בשופרות גם־אתם סביבות כל־המחנה ואמרתם ליהוה ולגדעון",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 19,
+        "text": "ויבא גדעון ומאה־איש אשר־אתו בקצה המחנה ראש האשמרת התיכונה אל הקם הקימו את־השמרים ויתקעו בשופרות ונפוץ הכדים אשר בידם",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 20,
+        "text": "ויתקעו שךשת הראשים בשופרות וישברו הכדים ויחזיקו ביד־שמאולם בלפדים וביד־ימינם השופרות לתקוע ויקראו חרב ליהוה ולגדעון",
+        "page": 313
+      },
+      {
+        "id": "shoftim-7-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 21,
+        "text": "ויעמדו איש תחתיו סביב למחנה וירץ כל־המחנה ויריעו (ויניסו) [וינוסו]",
+        "page": 314
+      },
+      {
+        "id": "shoftim-7-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 22,
+        "text": "ויתקעו שךש־מאות השופרות וישם יהוה את חרב איש ברעהו ובכל־המחנה וינס המחנה עד־בית השטה צררתה עד שפת־אבל מחולה על־טבת",
+        "page": 314
+      },
+      {
+        "id": "shoftim-7-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 23,
+        "text": "ויצעק איש־ישראל מנפתלי ומן־אשר ומן־כל־מנשה וירדפו אחרי מדין",
+        "page": 314
+      },
+      {
+        "id": "shoftim-7-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 24,
+        "text": "ומלאכים שלח גדעון בכל־הר אפרים לאמר רדו לקראת מדין ולכדו להם את־המים עד בית ברה ואת־הירדן ויצעק כל־איש אפרים וילכדו את־המים עד בית ברה ואת־הירדן",
+        "page": 314
+      },
+      {
+        "id": "shoftim-7-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 7,
+        "verse": 25,
+        "text": "וילכדו שני־שרי מדין את־ערב ואת־זאב ויהרגו את־עורב בצור־עורב ואת־זאב הרגו ביקב־זאב וירדפו אל־מדין וראש־ערב וזאב הביאו אל־גדעון מעבר לירדן",
+        "page": 314
+      }
+    ],
+    "8": [
+      {
+        "id": "shoftim-8-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 1,
+        "text": "ויאמרו אליו איש אפרים מה־הדבר הזה עשית לנו לבלתי קראות לנו כי הלכת להלחם במדין ויריבון אתו בחזקה",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 2,
+        "text": "ויאמר אליהם מה־עשיתי עתה ככם הךא טוב עללות אפרים מבציר אביעזר",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 3,
+        "text": "בידכם נתן אלהים את־שרי מדין את־ערב ואת־זאב ומה־יכלתי עשות ככם אז רפתה רוחם מעליו בדברו הדבר הזה",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 4,
+        "text": "ויבא גדעון הירדנה עבר הוא ושךש־מאות האיש אשר אתו עיפים ורדפים",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 5,
+        "text": "ויאמר לאנשי סכות תנו־נא ככרות לחם לעם אשר ברגלי כי־עיפים הם ואנכי רדף אחרי זבח וצלמנע מלכי מדין",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 6,
+        "text": "ויאמר שרי סכות הכף זבח וצלמנע עתה בידך כי־נתן לצבאל לחם",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 7,
+        "text": "ויאמר גדעון לכן בתת יהוה את־זבח ואת־צלמנע בידי ודשתי את־בשרכם את־קוצי המדבר ואת־הברקנים",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 8,
+        "text": "ויעל משם פנואל וידבר אליהם כזאת ויענו אותו אנשי פנואל כאשר ענו אנשי סכות",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 9,
+        "text": "ויאמר גם־לאנשי פנואל לאמר בשובי בשלום אתץ את־המגדל הזה",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 10,
+        "text": "וזבח וצלמנע בקרקר ומחניהם עמם כחמשת עשר אלף כל הנותרים מכל מחנה בני־קדם והנפלים מאה ועשרים אלף איש שלף חרב",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 11,
+        "text": "ויעל גדעון דרך השכוני באהלים מקדם לנבח ויגבהה ויך את־המחנה והמחנה היה בטח",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 12,
+        "text": "וינסו זבח וצלמנע וירדף אחריהם וילכד את־שני ׀ מלכי מדין את־זבח ואת־צלמנע וכל־המחנה החריד",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 13,
+        "text": "וישב גדעון בן־יואש מן־המלחמה מלמעלה החרס",
+        "page": 314
+      },
+      {
+        "id": "shoftim-8-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 14,
+        "text": "וילכד־נער מאנשי סכות וישאלהו ויכתב אליו את־שרי סכות ואת־זקניה שבעים ושבעה איש",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 15,
+        "text": "ויבא אל־אנשי סכות ויאמר הנה זבח וצלמנע אשר חרפתם אותי לאמר הכף זבח וצלמנע עתה בידך כי נתן לאנשיך היעפים לחם",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 16,
+        "text": "ויקח את־זקני העיר ואת־קוצי המדבר ואת־הברקנים וידע בהם את אנשי סכות",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 17,
+        "text": "ואת־מגדל פנואל נתץ ויהרג את־אנשי העיר",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 18,
+        "text": "ויאמר אל־זבח ואל־צלמנע איפה האנשים אשר הרגתם בתבור ויאמרו כמוך כמוהם אחד כתאר בני המלך",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 19,
+        "text": "ויאמר אחי בני־אמי הם חי־יהוה לו החיתם אותם ךא הרגתי אתכם",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 20,
+        "text": "ויאמר ליתר בכורו קום הרג אותם וךא־שלף הנער חרבו כי ירא כי עודנו נער",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 21,
+        "text": "ויאמר זבח וצלמנע קום אתה ופגע־בנו כי כאיש גבורתו ויקם גדעון ויהרג את־זבח ואת־צלמנע ויקח את־השהרנים אשר בצוארי גמליהם",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 22,
+        "text": "ויאמרו איש־ישראל אל־גדעון משל־בנו גם־אתה גם־בנך גם בן־בנך כי הושעתנו מיד מדין",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 23,
+        "text": "ויאמר אלהם גדעון ךא־אמשל אני בכם וךא־ימשל בני בכם יהוה ימשל בכם",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 24,
+        "text": "ויאמר אלהם גדעון אשאלה מכם שאלה ותנו־לי איש נזם שללו כי־נזמי זהב להם כי ישמעאלים הם",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 25,
+        "text": "ויאמרו נתון נתן ויפרשו את־השמלה וישליכו שמה איש נזם שללו",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 26,
+        "text": "ויהי משקל נזמי הזהב אשר שאל אלף ושבע־מאות זהב לבד מן־השהרנים והנטיפות ובגדי הארגמן שעל מלכי מדין ולבד מן־הענקות אשר בצוארי גמליהם",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 27,
+        "text": "ויעש אותו גדעון לאפוד ויצג אותו בעירו בעפרה ויזנו כל־ישראל אחריו שם ויהי לגדעון ולביתו למוקש",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 28,
+        "text": "ויכנע מדין לפני בני ישראל וךא יספו לשאת ראשם ותשקט הארץ ארבעים שנה בימי גדעון",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 29,
+        "text": "וילך ירבעל בן־יואש וישב בביתו",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 30,
+        "text": "ולגדעון היו שבעים בנים יצאי ירכו כי־נשים רבות היו לו",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 31,
+        "text": "ופילגשו אשר בשכם ילדה־לו גם־היא בן וישם את־שמו אבימלך",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-32",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 32,
+        "text": "וימת גדעון בן־יואש בשיבה טובה ויקבר בקבר יואש אביו בעפרה אבי העזרי",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-33",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 33,
+        "text": "ויהי כאשר מת גדעון וישובו בני ישראל ויזנו אחרי הבעלים וישימו להם בעל ברית לאלהים",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-34",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 34,
+        "text": "וךא זכרו בני ישראל את־יהוה אלהיהם המציל אותם מיד כל־איביהם מסביב",
+        "page": 315
+      },
+      {
+        "id": "shoftim-8-35",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 8,
+        "verse": 35,
+        "text": "וךא־עשו חסד עם־בית ירבעל גדעון ככל־הטובה אשר עשה עם־ישראל",
+        "page": 315
+      }
+    ],
+    "9": [
+      {
+        "id": "shoftim-9-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 1,
+        "text": "וילך אבימלך בן־ירבעל שכמה אל־אחי אמו וידבר אליהם ואל־כל־משפחת בית־אבי אמו לאמר",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 2,
+        "text": "דברו־נא באזני כל־בעלי שכם מה־טוב לכם המשל בכם שבעים איש כל בני ירבעל אם־משל בכם איש אחד וזכרתם כי־עצמכם ובשרכם אני",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 3,
+        "text": "וידברו אחי־אמו עליו באזני כל־בעלי שכם את כל־הדברים האלה ויט לבם אחרי אבימלך כי אמרו אחינו הוא",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 4,
+        "text": "ויתנו־לו שבעים כסף מבית בעל ברית וישכר בהם אבימלך אנשים ריקים ופחזים וילכו אחריו",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 5,
+        "text": "ויבא בית־אביו עפרתה ויהרג את־אחיו בני־ירבעל שבעים איש על־אבן אחת ויותר יותם בן־ירבעל הקטן כי נחבא",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 6,
+        "text": "ויאספו כל־בעלי שכם וכל־בית מלוא וילכו וימליכו את־אבימלך למלך עם־אלון מצב אשר בשכם",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 7,
+        "text": "ויגדו ליותם וילך ויעמד בראש הר־גרזים וישא קולו ויקרא ויאמר להם שמעו אלי בעלי שכם וישמע אליכם אלהים",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 8,
+        "text": "הלוך הלכו העצים למשח עליהם מלך ויאמרו לזית (מלוכה) [מלכה] עלינו",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 9,
+        "text": "ויאמר להם הזית החדלתי את־דשני אשר־בי יכבדו אלהים ואנשים והלכתי לנוע על־העצים",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 10,
+        "text": "ויאמרו העצים לתאנה לכי־את מלכי עלינו",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 11,
+        "text": "ותאמר להם התאנה החדלתי את־מתקי ואת־תנובתי הטובה והלכתי לנוע על־העצים",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 12,
+        "text": "ויאמרו העצים לגפן לכי־את (מלוכי) [מלכי] עלינו",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 13,
+        "text": "ותאמר להם הגפן החדלתי את־תירושי המשמח אלהים ואנשים והלכתי לנוע על־העצים",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 14,
+        "text": "ויאמרו כל־העצים אל־האטד לך אתה מלך־עלינו",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 15,
+        "text": "ויאמר האטד אל־העצים אם באמת אתם משחים אתי למלך עליכם באו חסו בצלי ואם־אין תצא אש מן־האטד ותאכל את־ארזי הלבנון",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 16,
+        "text": "ועתה אם־באמת ובתמים עשיתם ותמליכו את־אבימלך ואם־טובה עשיתם עם־ירבעל ועם־ביתו ואם־כגמול ידיו עשיתם לו",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 17,
+        "text": "אשר־נלחם אבי עליכם וישלך את־נפשו מנגד ויצל אתכם מיד מדין",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 18,
+        "text": "ואתם קמתם על־בית אבי היום ותהרגו את־בניו שבעים איש על־אבן אחת ותמליכו את־אבימלך בן־אמתו על־בעלי שכם כי אחיכם הוא",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 19,
+        "text": "ואם־באמת ובתמים עשיתם עם־ירבעל ועם־ביתו היום הזה שמחו באבימלך וישמח גם־הוא בכם",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 20,
+        "text": "ואם־אין תצא אש מאבימלך ותאכל את־בעלי שכם ואת־בית מלוא ותצא אש מבעלי שכם ומבית מלוא ותאכל את־אבימלך",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 21,
+        "text": "וינס יותם ויברח וילך בארה וישב שם מפני אבימלך אחיו",
+        "page": 316
+      },
+      {
+        "id": "shoftim-9-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 22,
+        "text": "וישר אבימלך על־ישראל שךש שנים",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 23,
+        "text": "וישלח אלהים רוח רעה בין אבימלך ובין בעלי שכם ויבגדו בעלי־שכם באבימלך",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 24,
+        "text": "לבוא חמס שבעים בני־ירבעל ודמם לשום על־אבימלך אחיהם אשר הרג אותם ועל בעלי שכם אשר־חזקו את־ידיו להרג את־אחיו",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 25,
+        "text": "וישימו לו בעלי שכם מארבים על ראשי ההרים ויגזלו את כל־אשר־יעבר עליהם בדרך ויגד לאבימלך",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 26,
+        "text": "ויבא געל בן־עבד ואחיו ויעברו בשכם ויבטחו־בו בעלי שכם",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 27,
+        "text": "ויצאו השדה ויבצרו את־כרמיהם וידרכו ויעשו הלולים ויבאו בית ךאלהיהם ויאכלו וישתו ויקללו את־אבימלך",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 28,
+        "text": "ויאמר ׀ געל בן־עבד מי־אבימלך ומי־שכם כי נעבדנו הךא בן־ירבעל וזבל פקידו עבדו את־אנשי חמור אבי שכם ומדוע נעבדנו אנחנו",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 29,
+        "text": "ומי יתן את־העם הזה בידי ואסירה את־אבימלך ויאמר לאבימלך רבה צבאל וצאה",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 30,
+        "text": "וישמע זבל שר־העיר את־דברי געל בן־עבד ויחר אפו",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 31,
+        "text": "וישלח מלאכים אל־אבימלך בתרמה לאמר הנה געל בן־עבד ואחיו באים שכמה והנם צרים את־העיר עליך",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-32",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 32,
+        "text": "ועתה קום לילה אתה והעם אשר־אתך וארב בשדה",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-33",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 33,
+        "text": "והיה בבקר כזרח השמש תשכים ופשטת על־העיר והנה־הוא והעם אשר־אתו יצאים אליך ועשית לו כאשר תמצא ידך",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-34",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 34,
+        "text": "ויקם אבימלך וכל־העם אשר־עמו לילה ויארבו על־שכם ארבעה ראשים",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-35",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 35,
+        "text": "ויצא געל בן־עבד ויעמד פתח שער העיר ויקם אבימלך והעם אשר־אתו מן־המארב",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-36",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 36,
+        "text": "וירא־געל את־העם ויאמר אל־זבל הנה־עם יורד מראשי ההרים ויאמר אליו זבל את צל ההרים אתה ראה כאנשים",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-37",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 37,
+        "text": "ויסף עוד געל לדבר ויאמר הנה־עם יורדים מעם טבור הארץ וראש־אחד בא מדרך אלון מעוננים",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-38",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 38,
+        "text": "ויאמר אליו זבל איה אפוא פיך אשר תאמר מי אבימלך כי נעבדנו הךא זה העם אשר מאסתה בו צא־נא עתה והלחם בו",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-39",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 39,
+        "text": "ויצא געל לפני בעלי שכם וילחם באבימלך",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-40",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 40,
+        "text": "וירדפהו אבימלך וינס מפניו ויפלו חללים רבים עד־פתח השער",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-41",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 41,
+        "text": "וישב אבימלך בארומה ויגרש זבל את־געל ואת־אחיו משבת בשכם",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-42",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 42,
+        "text": "ויהי ממחרת ויצא העם השדה ויגדו לאבימלך",
+        "page": 317
+      },
+      {
+        "id": "shoftim-9-43",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 43,
+        "text": "ויקח את־העם ויחצם לשךשה ראשים ויארב בשדה וירא והנה העם יצא מן־העיר ויקם עליהם ויכם",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-44",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 44,
+        "text": "ואבימלך והראשים אשר עמו פשטו ויעמדו פתח שער העיר ושני הראשים פשטו על־כל־אשר בשדה ויכום",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-45",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 45,
+        "text": "ואבימלך נלחם בעיר כל היום ההוא וילכד את־העיר ואת־העם אשר־בה הרג ויתץ את־העיר ויזרעה מלח",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-46",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 46,
+        "text": "וישמעו כל־בעלי מגדל־שכם ויבאו אל־צריח בית אל ברית",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-47",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 47,
+        "text": "ויגד לאבימלך כי התקבצו כל־בעלי מגדל־שכם",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-48",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 48,
+        "text": "ויעל אבימלך הר־צלמון הוא וכל־העם אשר־אתו ויקח אבימלך את־הקרדמות בידו ויכרת שוכת עצים וישאה וישם על־שכמו ויאמר אל־העם אשר־עמו מה ראיתם עשיתי מהרו עשו כמוני",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-49",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 49,
+        "text": "ויכרתו גם־כל־העם איש שוכה וילכו אחרי אבימלך וישימו על־הצריח ויציתו עליהם את־הצריח באש וימתו גם כל־אנשי מגדל־שכם כאלף איש ואשה",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-50",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 50,
+        "text": "וילך אבימלך אל־תבץ ויחן בתבץ וילכדה",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-51",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 51,
+        "text": "ומגדל־עז היה בתוך־העיר וינסו שמה כל־האנשים והנשים וכל בעלי העיר ויסגרו בעדם ויעלו על־גג המגדל",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-52",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 52,
+        "text": "ויבא אבימלך עד־המגדל וילחם בו ויגש עד־פתח המגדל לשרפו באש",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-53",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 53,
+        "text": "ותשלך אשה אחת פלח רכב על־ראש אבימלך ותרץ את־גלגלתו",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-54",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 54,
+        "text": "ויקרא מהרה אל־הנער ׀ נשא כליו ויאמר לו שךף חרבך ומותתני פן־יאמרו לי אשה הרגתהו וידקרהו נערו וימת",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-55",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 55,
+        "text": "ויראו איש־ישראל כי מת אבימלך וילכו איש למקמו",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-56",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 56,
+        "text": "וישב אלהים את רעת אבימלך אשר עשה לאביו להרג את־שבעים אחיו",
+        "page": 318
+      },
+      {
+        "id": "shoftim-9-57",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 9,
+        "verse": 57,
+        "text": "ואת כל־רעת אנשי שכם השיב אלהים בראשם ותבא אליהם קללת יותם בן־ירבעל",
+        "page": 318
+      }
+    ],
+    "10": [
+      {
+        "id": "shoftim-10-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 1,
+        "text": "ויקם אחרי אבימלך להושיע את־ישראל תולע בן־פואה בן־דודו איש יששכר והוא־ישב בשמיר בהר אפרים",
+        "page": 318
+      },
+      {
+        "id": "shoftim-10-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 2,
+        "text": "וישפט את־ישראל עשרים ושךש שנה וימת ויקבר בשמיר",
+        "page": 318
+      },
+      {
+        "id": "shoftim-10-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 3,
+        "text": "ויקם אחריו יאיר הגלעדי וישפט את־ישראל עשרים ושתים שנה",
+        "page": 318
+      },
+      {
+        "id": "shoftim-10-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 4,
+        "text": "ויהי־לו שךשים בנים רכבים על־שךשים עירים ושךשים עירים להם להם יקראו ׀ חות יאיר עד היום הזה אשר בארץ הגלעד",
+        "page": 318
+      },
+      {
+        "id": "shoftim-10-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 5,
+        "text": "וימת יאיר ויקבר בקמון",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 6,
+        "text": "ויסיפו ׀ בני ישראל לעשות הרע בעיני יהוה ויעבדו את־הבעלים ואת־העשתרות ואת־אלהי ארם ואת־אלהי צידון ואת ׀ אלהי מואב ואת אלהי בני־עמון ואת אלהי פלשתים ויעזבו את־יהוה וךא עבדוהו",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 7,
+        "text": "ויחר־אף יהוה בישראל וימכרם ביד־פלשתים וביד בני עמון",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 8,
+        "text": "וירעצו וירצצו את־בני ישראל בשנה ההיא שמנה עשרה שנה את־כל־בני ישראל אשר בעבר הירדן בארץ האמרי אשר בגלעד",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 9,
+        "text": "ויעברו בני־עמון את־הירדן להלחם גם־ביהודה ובבנימין ובבית אפרים ותצר לישראל מאד",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 10,
+        "text": "ויזעקו בני ישראל אל־יהוה לאמר חטאנו לך וכי עזבנו את־אלהינו ונעבד את־הבעלים",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 11,
+        "text": "ויאמר יהוה אל־בני ישראל הךא ממצרים ומן־האמרי ומן־בני עמון ומן־פלשתים",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 12,
+        "text": "וצידונים ועמלק ומעון לחצו אתכם ותצעקו אלי ואושיעה אתכם מידם",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 13,
+        "text": "ואתם עזבתם אותי ותעבדו אלהים אחרים לכן ךא־אוסיף להושיע אתכם",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 14,
+        "text": "לכו וזעקו אל־האלהים אשר בחרתם בם המה יושיעו לכם בעת צרתכם",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 15,
+        "text": "ויאמרו בני־ישראל אל־יהוה חטאנו עשה־אתה לנו ככל־הטוב בעיניך אל הצילנו נא היום הזה",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 16,
+        "text": "ויסירו את־אלהי הנכר מקרבם ויעבדו את־יהוה ותקצר נפשו בעמל ישראל",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 17,
+        "text": "ויצעקו בני עמון ויחנו בגלעד ויאספו בני ישראל ויחנו במצפה",
+        "page": 319
+      },
+      {
+        "id": "shoftim-10-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 10,
+        "verse": 18,
+        "text": "ויאמרו העם שרי גלעד איש אל־רעהו מי האיש אשר יחל להלחם בבני עמון יהיה לראש לכל ישבי גלעד",
+        "page": 319
+      }
+    ],
+    "11": [
+      {
+        "id": "shoftim-11-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 1,
+        "text": "ויפתח הגלעדי היה גבור חיל והוא בן־אשה זונה ויולד גלעד את־יפתח",
+        "page": 319
+      },
+      {
+        "id": "shoftim-11-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 2,
+        "text": "ותלד אשת־גלעד לו בנים ויגדלו בני־האשה ויגרשו את־יפתח ויאמרו לו ךא־תנחל בבית־אבינו כי בן־אשה אחרת אתה",
+        "page": 319
+      },
+      {
+        "id": "shoftim-11-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 3,
+        "text": "ויברח יפתח מפני אחיו וישב בארץ טוב ויתלקטו אל־יפתח אנשים ריקים ויצאו עמו",
+        "page": 319
+      },
+      {
+        "id": "shoftim-11-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 4,
+        "text": "ויהי מימים וילחמו בני־עמון עם־ישראל",
+        "page": 319
+      },
+      {
+        "id": "shoftim-11-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 5,
+        "text": "ויהי כאשר־נלחמו בני־עמון עם־ישראל וילכו זקני גלעד לקחת את־יפתח מארץ טוב",
+        "page": 319
+      },
+      {
+        "id": "shoftim-11-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 6,
+        "text": "ויאמרו ליפתח לכה והייתה לנו לקצין ונלחמה בבני עמון",
+        "page": 319
+      },
+      {
+        "id": "shoftim-11-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 7,
+        "text": "ויאמר יפתח לזקני גלעד הךא אתם שנאתם אותי ותגרשוני מבית אבי ומדוע באתם אלי עתה כאשר צר לכם",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 8,
+        "text": "ויאמרו זקני גלעד אל־יפתח לכן עתה שבנו אליך והלכת עמנו ונלחמת בבני עמון והיית לנו לראש לכל ישבי גלעד",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 9,
+        "text": "ויאמר יפתח אל־זקני גלעד אם־משיבים אתם אותי להלחם בבני עמון ונתן יהוה אותם לפני אנכי אהיה לכם לראש",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 10,
+        "text": "ויאמרו זקני־גלעד אל־יפתח יהוה יהיה שמע בינותינו אם־ךא כדברך כן נעשה",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 11,
+        "text": "וילך יפתח עם־זקני גלעד וישימו העם אותו עליהם לראש ולקצין וידבר יפתח את־כל־דבריו לפני יהוה במצפה",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 12,
+        "text": "וישלח יפתח מלאכים אל־מלך בני־עמון לאמר מה־לי ולך כי־באת אלי להלחם בארצי",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 13,
+        "text": "ויאמר מלך בני־עמון אל־מלאכי יפתח כי־לקח ישראל את־ארצי בעלותו ממצרים מארנון ועד־היבק ועד־הירדן ועתה השיבה אתהן בשלום",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 14,
+        "text": "ויוסף עוד יפתח וישלח מלאכים אל־מלך בני עמון",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 15,
+        "text": "ויאמר לו כה אמר יפתח ךא־לקח ישראל את־ארץ מואב ואת־ארץ בני עמון",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 16,
+        "text": "כי בעלותם ממצרים וילך ישראל במדבר עד־ים־סוף ויבא קדשה",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 17,
+        "text": "וישלח ישראל מלאכים ׀ אל־מלך אדום ׀ לאמר אעברה־נא בארצך וךא שמע מלך אדום וגם אל־מלך מואב שלח וךא אבה וישב ישראל בקדש",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 18,
+        "text": "וילך במדבר ויסב את־ארץ אדום ואת־ארץ מואב ויבא ממזרח־שמש לארץ מואב ויחנון בעבר ארנון וךא־באו בגבול מואב כי ארנון גבול מואב",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 19,
+        "text": "וישלח ישראל מלאכים אל־סיחון מלך־האמרי מלך חשבון ויאמר לו ישראל נעברה־נא בארצך עד־מקומי",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 20,
+        "text": "וךא־האמין סיחון את־ישראל עבר בגבלו ויאסף סיחון את־כל־עמו ויחנו ביהצה וילחם עם־ישראל",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 21,
+        "text": "ויתן יהוה אלהי־ישראל את־סיחון ואת־כל־עמו ביד ישראל ויכום ויירש ישראל את כל־ארץ האמרי יושב הארץ ההיא",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 22,
+        "text": "ויירשו את כל־גבול האמרי מארנון ועד־היבק ומן־המדבר ועד־הירדן",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 23,
+        "text": "ועתה יהוה ׀ אלהי ישראל הוריש את־האמרי מפני עמו ישראל ואתה תירשנו",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 24,
+        "text": "הךא את אשר יורישך כמוש אלהיך אותו תירש ואת כל־אשר הוריש יהוה אלהינו מפנינו אותו נירש",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 25,
+        "text": "ועתה הטוב טוב אתה מבלק בן־צפור מלך מואב הרוב רב עם־ישראל אם־נלחם נלחם בם",
+        "page": 320
+      },
+      {
+        "id": "shoftim-11-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 26,
+        "text": "בשבת ישראל בחשבון ובבנותיה ובערעור ובבנותיה ובכל־הערים אשר על־ידי ארנון שךש מאות שנה ומדוע ךא־הצלתם בעת ההיא",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 27,
+        "text": "ואנכי ךא־חטאתי לך ואתה עשה אתי רעה להלחם בי ישפט יהוה השפט היום בין בני ישראל ובין בני עמון",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 28,
+        "text": "וךא שמע מלך בני עמון אל־דברי יפתח אשר שלח אליו",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 29,
+        "text": "ותהי על־יפתח רוח יהוה ויעבר את־הגלעד ואת־מנשה ויעבר את־מצפה גלעד וממצפה גלעד עבר בני עמון",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 30,
+        "text": "וידר יפתח נדר ליהוה ויאמר אם־נתון תתן את־בני עמון בידי",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 31,
+        "text": "והיה היוצא אשר יצא מדלתי ביתי לקראתי בשובי בשלום מבני עמון והיה ליהוה והעליתיהו עלה",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-32",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 32,
+        "text": "ויעבר יפתח אל־בני עמון להלחם בם ויתנם יהוה בידו",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-33",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 33,
+        "text": "ויכם מערוער ועד־באל מנית עשרים עיר ועד אבל כרמים מכה גדולה מאד ויכנעו בני עמון מפני בני ישראל",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-34",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 34,
+        "text": "ויבא יפתח המצפה אל־ביתו והנה בתו יצאת לקראתו בתפים ובמחלות ורק היא יחידה אין־לו ממנו בן או־בת",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-35",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 35,
+        "text": "ויהי כראותו אותה ויקרע את־בגדיו ויאמר אהה בתי הכרע הכרעתני ואת היית בעכרי ואנכי פציתי פי אל־יהוה וךא אוכל לשוב",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-36",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 36,
+        "text": "ותאמר אליו אבי פציתה את־פיך אל־יהוה עשה לי כאשר יצא מפיך אחרי אשר עשה לך יהוה נקמות מאיביך מבני עמון",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-37",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 37,
+        "text": "ותאמר אל־אביה יעשה לי הדבר הזה הרפה ממני שנים חדשים ואלכה וירדתי על־ההרים ואבכה על־בתולי אנכי (ורעיתי) [ורעותי]",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-38",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 38,
+        "text": "ויאמר לכי וישלח אותה שני חדשים ותלך היא ורעותיה ותבך על־בתוליה על־ההרים",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-39",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 39,
+        "text": "ויהי מקץ ׀ שנים חדשים ותשב אל־אביה ויעש לה את־נדרו אשר נדר והיא לא־ידעה איש ותהי־חק בישראל",
+        "page": 321
+      },
+      {
+        "id": "shoftim-11-40",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 11,
+        "verse": 40,
+        "text": "מימים ׀ ימימה תלכנה בנות ישראל לתנות לבת־יפתח הגלעדי ארבעת ימים בשנה",
+        "page": 321
+      }
+    ],
+    "12": [
+      {
+        "id": "shoftim-12-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 1,
+        "text": "ויצעק איש אפרים ויעבר צפונה ויאמרו ליפתח מדוע ׀ עברת ׀ להלחם בבני־עמון ולנו ךא קראת ללכת עמך ביתך נשרף עליך באש",
+        "page": 321
+      },
+      {
+        "id": "shoftim-12-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 2,
+        "text": "ויאמר יפתח אליהם איש ריב הייתי אני ועמי ובני־עמון מאד ואזעק אתכם וךא־הושעתם אותי מידם",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 3,
+        "text": "ואראה כי־אינך מושיע ואשימה נפשי בכפי ואעברה אל־בני עמון ויתנם יהוה בידי ולמה עליתם אלי היום הזה להלחם בי",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 4,
+        "text": "ויקבץ יפתח את־כל־אנשי גלעד וילחם את־אפרים ויכו אנשי גלעד את־אפרים כי אמרו פליטי אפרים אתם גלעד בתוך אפרים בתוך מנשה",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 5,
+        "text": "וילכד גלעד את־מעברות הירדן לאפרים והיה כי יאמרו פליטי אפרים אעברה ויאמרו לו אנשי־גלעד האפרתי אתה ויאמר ׀ ךא",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 6,
+        "text": "ויאמרו לו אמר־נא שבלת ויאמר סבלת וךא יכין לדבר כן ויאחזו אותו וישחטוהו אל־מעברות הירדן ויפל בעת ההיא מאפרים ארבעים ושנים אלף",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 7,
+        "text": "וישפט יפתח את־ישראל שש שנים וימת יפתח הגלעדי ויקבר בערי גלעד",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 8,
+        "text": "וישפט אחריו את־ישראל אבצן מבית לחם",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 9,
+        "text": "ויהי־לו שךשים בנים ושךשים בנות שלח החוצה ושךשים בנות הביא לבניו מן־החוץ וישפט את־ישראל שבע שנים",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 10,
+        "text": "וימת אבצן ויקבר בבית לחם",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 11,
+        "text": "וישפט אחריו את־ישראל אילון הזבוךני וישפט את־ישראל עשר שנים",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 12,
+        "text": "וימת אילון הזבוךני ויקבר באילון בארץ זבולן",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 13,
+        "text": "וישפט אחריו את־ישראל עבדון בן־הלל הפרעתוני",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 14,
+        "text": "ויהי־לו ארבעים בנים ושךשים בני בנים רכבים על־שבעים עירם וישפט את־ישראל שמנה שנים",
+        "page": 322
+      },
+      {
+        "id": "shoftim-12-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 12,
+        "verse": 15,
+        "text": "וימת עבדון בן־הלל הפרעתוני ויקבר בפרעתון בארץ אפרים בהר העמלקי",
+        "page": 322
+      }
+    ],
+    "13": [
+      {
+        "id": "shoftim-13-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 1,
+        "text": "ויסיפו בני ישראל לעשות הרע בעיני יהוה ויתנם יהוה ביד־פלשתים ארבעים שנה",
+        "page": 322
+      },
+      {
+        "id": "shoftim-13-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 2,
+        "text": "ויהי איש אחד מצרעה ממשפחת הדני ושמו מנוח ואשתו עקרה וךא ילדה",
+        "page": 322
+      },
+      {
+        "id": "shoftim-13-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 3,
+        "text": "וירא מלאל־יהוה אל־האשה ויאמר אליה הנה־נא את־עקרה וךא ילדת והרית וילדת בן",
+        "page": 322
+      },
+      {
+        "id": "shoftim-13-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 4,
+        "text": "ועתה השמרי נא ואל־תשתי יין ושכר ואל־תאכלי כל־טמא",
+        "page": 322
+      },
+      {
+        "id": "shoftim-13-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 5,
+        "text": "כי הנך הרה וילדת בן ומורה ךא־יעלה על־ראשו כי־נזיר אלהים יהיה הנער מן־הבטן והוא יחל להושיע את־ישראל מיד פלשתים",
+        "page": 322
+      },
+      {
+        "id": "shoftim-13-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 6,
+        "text": "ותבא האשה ותאמר לאישה לאמר איש האלהים בא אלי ומראהו כמראה מלאל האלהים נורא מאד וךא שאלתיהו אי־מזה הוא ואת־שמו ךא־הגיד לי",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 7,
+        "text": "ויאמר לי הנך הרה וילדת בן ועתה אל־תשתי ׀ יין ושכר ואל־תאכלי כל־טמאה כי־נזיר אלהים יהיה הנער מן־הבטן עד־יום מותו",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 8,
+        "text": "ויעתר מנוח אל־יהוה ויאמר בי אדוני איש האלהים אשר שלחת יבוא־נא עוד אלינו ויורנו מה־נעשה לנער היולד",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 9,
+        "text": "וישמע האלהים בקול מנוח ויבא מלאל האלהים עוד אל־האשה והיא יושבת בשדה ומנוח אישה אין עמה",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 10,
+        "text": "ותמהר האשה ותרץ ותגד לאישה ותאמר אליו הנה נראה אלי האיש אשר־בא ביום אלי",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 11,
+        "text": "ויקם וילך מנוח אחרי אשתו ויבא אל־האיש ויאמר לו האתה האיש אשר־דברת אל־האשה ויאמר אני",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 12,
+        "text": "ויאמר מנוח עתה יבא דבריך מה־יהיה משפט־הנער ומעשהו",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 13,
+        "text": "ויאמר מלאל יהוה אל־מנוח מכל אשר־אמרתי אל־האשה תשמר",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 14,
+        "text": "מכל אשר־יצא מגפן היין ךא תאכל ויין ושכר אל־תשת וכל־טמאה אל־תאכל כל אשר־צויתיה תשמר",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 15,
+        "text": "ויאמר מנוח אל־מלאל יהוה נעצרה־נא אותך ונעשה לפניך גדי עזים",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 16,
+        "text": "ויאמר מלאל יהוה אל־מנוח אם־תעצרני ךא־אכל בלחמך ואם־תעשה עלה ליהוה תעלנה כי ךא־ידע מנוח כי־מלאל יהוה הוא",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 17,
+        "text": "ויאמר מנוח אל־מלאל יהוה מי שמך כי־יבא (דבריך) [דברך] וכבדנוך",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 18,
+        "text": "ויאמר לו מלאל יהוה למה זה תשאל לשמי והוא־פלאי",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 19,
+        "text": "ויקח מנוח את־גדי העזים ואת־המנחה ויעל על־הצור ליהוה ומפלא לעשות ומנוח ואשתו ראים",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 20,
+        "text": "ויהי בעלות הלהב מעל המזבח השמימה ויעל מלאל־יהוה בלהב המזבח ומנוח ואשתו ראים ויפלו על־פניהם ארצה",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 21,
+        "text": "וךא־יסף עוד מלאל יהוה להראה אל־מנוח ואל־אשתו אז ידע מנוח כי־מלאל יהוה הוא",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 22,
+        "text": "ויאמר מנוח אל־אשתו מות נמות כי אלהים ראינו",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 23,
+        "text": "ותאמר לו אשתו לו חפץ יהוה להמיתנו ךא־לקח מידנו עלה ומנחה וךא הראנו את־כל־אלה וכעת ךא השמיענו כזאת",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 24,
+        "text": "ותלד האשה בן ותקרא את־שמו שמשון ויגדל הנער ויברכהו יהוה",
+        "page": 323
+      },
+      {
+        "id": "shoftim-13-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 13,
+        "verse": 25,
+        "text": "ותחל רוח יהוה לפעמו במחנה־דן בין צרעה ובין אשתאל",
+        "page": 323
+      }
+    ],
+    "14": [
+      {
+        "id": "shoftim-14-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 1,
+        "text": "וירד שמשון תמנתה וירא אשה בתמנתה מבנות פלשתים",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 2,
+        "text": "ויעל ויגד לאביו ולאמו ויאמר אשה ראיתי בתמנתה מבנות פלשתים ועתה קחו־אותה לי לאשה",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 3,
+        "text": "ויאמר לו אביו ואמו האין בבנות אחיך ובכל־עמי אשה כי־אתה הולך לקחת אשה מפלשתים הערלים ויאמר שמשון אל־אביו אותה קח־לי כי־היא ישרה בעיני",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 4,
+        "text": "ואביו ואמו ךא ידעו כי מיהוה היא כי־תאנה הוא־מבקש מפלשתים ובעת ההיא פלשתים משלים בישראל",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 5,
+        "text": "וירד שמשון ואביו ואמו תמנתה ויבאו עד־כרמי תמנתה והנה כפיר אריות שאג לקראתו",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 6,
+        "text": "ותצלח עליו רוח יהוה וישסעהו כשסע הגדי ומאומה אין בידו וךא הגיד לאביו ולאמו את אשר עשה",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 7,
+        "text": "וירד וידבר לאשה ותישר בעיני שמשון",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 8,
+        "text": "וישב מימים לקחתה ויסר לראות את מפלת האריה והנה עדת דבורים בגוית האריה ודבש",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 9,
+        "text": "וירדהו אל־כפיו וילך הלוך ואכל וילך אל־אביו ואל־אמו ויתן להם ויאכלו וךא־הגיד להם כי מגוית האריה רדה הדבש",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 10,
+        "text": "וירד אביהו אל־האשה ויעש שם שמשון משתה כי כן יעשו הבחורים",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 11,
+        "text": "ויהי כראותם אותו ויקחו שךשים מרעים ויהיו אתו",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 12,
+        "text": "ויאמר להם שמשון אחודה־נא לכם חידה אם־הגד תגידו אותה לי שבעת ימי המשתה ומצאתם ונתתי לכם שךשים סדינים ושךשים חלפת בגדים",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 13,
+        "text": "ואם־ךא תוכלו להגיד לי ונתתם אתם לי שךשים סדינים ושךשים חליפות בגדים ויאמרו לו חודה חידתך ונשמענה",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 14,
+        "text": "ויאמר להם מהאכל יצא מאכל ומעז יצא מתוק וךא יכלו להגיד החידה שךשת ימים",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 15,
+        "text": "ויהי ׀ ביום השביעי ויאמרו לאשת־שמשון פתי את־אישך ויגד־לנו את־החידה פן־נשרף אותך ואת־בית אביך באש הלירשנו קראתם לנו הךא",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 16,
+        "text": "ותבך אשת שמשון עליו ותאמר רק־שנאתני וךא אהבתני החידה חדת לבני עמי ולי ךא הגדתה ויאמר לה הנה לאבי ולאמי ךא הגדתי ולך אגיד",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 17,
+        "text": "ותבך עליו שבעת הימים אשר־היה להם המשתה ויהי ׀ ביום השביעי ויגד־לה כי הציקתהו ותגד החידה לבני עמה",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 18,
+        "text": "ויאמרו לו אנשי העיר ביום השביעי בטרם יבא החרסה מה־מתוק מדבש ומה עז מארי ויאמר להם לולא חרשתם בעגלתי ךא מצאתם חידתי",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 19,
+        "text": "ותצלח עליו רוח יהוה וירד אשקלון ויך מהם ׀ שךשים איש ויקח את־חליצותם ויתן החליפות למגידי החידה ויחר אפו ויעל בית אביהו",
+        "page": 324
+      },
+      {
+        "id": "shoftim-14-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 14,
+        "verse": 20,
+        "text": "ותהי אשת שמשון למרעהו אשר רעה לו",
+        "page": 325
+      }
+    ],
+    "15": [
+      {
+        "id": "shoftim-15-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 1,
+        "text": "ויהי מימים בימי קציר־חטים ויפקד שמשון את־אשתו בגדי עזים ויאמר אבאה אל־אשתי החדרה וךא־נתנו אביה לבוא",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 2,
+        "text": "ויאמר אביה אמר אמרתי כי־שנא שנאתה ואתננה למרעך הךא אחותה הקטנה טובה ממנה תהי־נא לך תחתיה",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 3,
+        "text": "ויאמר להם שמשון נקיתי הפעם מפלשתים כי־עשה אני עמם רעה",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 4,
+        "text": "וילך שמשון וילכד שךש־מאות שועלים ויקח לפדים ויפן זנב אל־זנב וישם לפיד אחד בין־שני הזנבות בתוך",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 5,
+        "text": "ויבער־אש בלפידים וישלח בקמות פלשתים ויבער מגדיש ועד־קמה ועד־כרם זית",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 6,
+        "text": "ויאמרו פלשתים מי עשה זאת ויאמרו שמשון חתן התמני כי לקח את־אשתו ויתנה למרעהו ויעלו פלשתים וישרפו אותה ואת־אביה באש",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 7,
+        "text": "ויאמר להם שמשון אם־תעשון כזאת כי אם־נקמתי בכם ואחר אחדל",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 8,
+        "text": "ויך אותם שוק על־ירך מכה גדולה וירד וישב בסעיף סלע עיטם",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 9,
+        "text": "ויעלו פלשתים ויחנו ביהודה וינטשו בלחי",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 10,
+        "text": "ויאמרו איש יהודה למה עליתם עלינו ויאמרו לאסור את־שמשון עלינו לעשות לו כאשר עשה לנו",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 11,
+        "text": "וירדו שךשת אלפים איש מיהודה אל־סעיף סלע עיטם ויאמרו לשמשון הךא ידעת כי־משלים בנו פלשתים ומה־זאת עשית לנו ויאמר להם כאשר עשו לי כן עשיתי להם",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 12,
+        "text": "ויאמרו לו לאסרך ירדנו לתתך ביד־פלשתים ויאמר להם שמשון השבעו לי פן־תפגעון בי אתם",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 13,
+        "text": "ויאמרו לו לאמר ךא כי־אסר נאסרך ונתנוך בידם והמת ךא נמיתך ויאסרהו בשנים עבתים חדשים ויעלוהו מן־הסלע",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 14,
+        "text": "הוא־בא עד־לחי ופלשתים הריעו לקראתו ותצלח עליו רוח יהוה ותהיינה העבתים אשר על־זרועותיו כפשתים אשר בערו באש וימסו אסוריו מעל ידיו",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 15,
+        "text": "וימצא לחי־חמור טריה וישלח ידו ויקחה ויך־בה אלף איש",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 16,
+        "text": "ויאמר שמשון בלחי החמור חמור חמרתים בלחי החמור הכיתי אלף איש",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 17,
+        "text": "ויהי ככךתו לדבר וישלך הלחי מידו ויקרא למקום ההוא רמת לחי",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 18,
+        "text": "ויצמא מאד ויקרא אל־יהוה ויאמר אתה נתת ביד־עבדך את־התשועה הגדלה הזאת ועתה אמות בצמא ונפלתי ביד הערלים",
+        "page": 325
+      },
+      {
+        "id": "shoftim-15-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 19,
+        "text": "ויבקע אלהים את־המכתש אשר־בלחי ויצאו ממנו מים וישת ותשב רוחו ויחי על־כן ׀ קרא שמה עין הקורא אשר בלחי עד היום הזה",
+        "page": 326
+      },
+      {
+        "id": "shoftim-15-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 15,
+        "verse": 20,
+        "text": "וישפט את־ישראל בימי פלשתים עשרים שנה",
+        "page": 326
+      }
+    ],
+    "16": [
+      {
+        "id": "shoftim-16-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 1,
+        "text": "וילך שמשון עזתה וירא־שם אשה זונה ויבא אליה",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 2,
+        "text": "לעזתים ׀ לאמר בא שמשון הנה ויסבו ויארבו־לו כל־הלילה בשער העיר ויתחרשו כל־הלילה לאמר עד־אור הבקר והרגנהו",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 3,
+        "text": "וישכב שמשון עד־חצי הלילה ויקם ׀ בחצי הלילה ויאחז בדלתות שער־העיר ובשתי המזזות ויסעם עם־הבריח וישם על־כתפיו ויעלם אל־ראש ההר אשר על־פני חברון",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 4,
+        "text": "ויהי אחרי־כן ויאהב אשה בנחל שרק ושמה דלילה",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 5,
+        "text": "ויעלו אליה סרני פלשתים ויאמרו לה פתי אותו וראי במה כחו גדול ובמה נוכל לו ואסרנוהו לענותו ואנחנו נתן־לך איש אלף ומאה כסף",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 6,
+        "text": "ותאמר דלילה אל־שמשון הגידה־נא לי במה כחך גדול ובמה תאסר לענותך",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 7,
+        "text": "ויאמר אליה שמשון אם־יאסרני בשבעה יתרים לחים אשר ךא־חרבו וחליתי והייתי כאחד האדם",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 8,
+        "text": "ויעלו־לה סרני פלשתים שבעה יתרים לחים אשר ךא־חרבו ותאסרהו בהם",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 9,
+        "text": "והארב ישב לה בחדר ותאמר אליו פלשתים עליך שמשון וינתק את־היתרים כאשר ינתק פתיל־הנערת בהריחו אש וךא נודע כחו",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 10,
+        "text": "ותאמר דלילה אל־שמשון הנה התלת בי ותדבר אלי כזבים עתה הגידה־נא לי במה תאסר",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 11,
+        "text": "ויאמר אליה אם־אסור יאסרוני בעבתים חדשים אשר ךא־נעשה בהם מלאכה וחליתי והייתי כאחד האדם",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 12,
+        "text": "ותקח דלילה עבתים חדשים ותאסרהו בהם ותאמר אליו פלשתים עליך שמשון והארב ישב בחדר וינתקם מעל זרעתיו כחוט",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 13,
+        "text": "ותאמר דלילה אל־שמשון עד־הנה התלת בי ותדבר אלי כזבים הגידה לי במה תאסר ויאמר אליה אם־תארגי את־שבע מחלפות ראשי עם־המסכת",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 14,
+        "text": "ותתקע ביתד ותאמר אליו פלשתים עליך שמשון וייקץ משנתו ויסע את־היתד הארג ואת־המסכת",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 15,
+        "text": "ותאמר אליו איך תאמר אהבתיך ולבך אין אתי זה שךש פעמים התלת בי וךא־הגדת לי במה כחך גדול",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 16,
+        "text": "ויהי כי־הציקה לו בדבריה כל־הימים ותאלצהו ותקצר נפשו למות",
+        "page": 326
+      },
+      {
+        "id": "shoftim-16-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 17,
+        "text": "ויגד־לה את־כל־לבו ויאמר לה מורה ךא־עלה על־ראשי כי־נזיר אלהים אני מבטן אמי אם־גלחתי וסר ממני כחי וחליתי והייתי ככל־האדם",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 18,
+        "text": "ותרא דלילה כי־הגיד לה את־כל־לבו ותשלח ותקרא לסרני פלשתים לאמר עלו הפעם כי־הגיד (לה) [לי] את־כל־לבו ועלו אליה סרני פלשתים ויעלו הכסף בידם",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 19,
+        "text": "ותישנהו על־ברכיה ותקרא לאיש ותגלח את־שבע מחלפות ראשו ותחל לענותו ויסר כחו מעליו",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 20,
+        "text": "ותאמר פלשתים עליך שמשון ויקץ משנתו ויאמר אצא כפעם בפעם ואנער והוא לא ידע כי יהוה סר מעליו",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 21,
+        "text": "ויאחזוהו פלשתים וינקרו את־עיניו ויורידו אותו עזתה ויאסרוהו בנחשתים ויהי טוחן בבית (האסירים) [האסורים]",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 22,
+        "text": "ויחל שער־ראשו לצמח כאשר גלח",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 23,
+        "text": "וסרני פלשתים נאספו לזבח זבח־גדול לדגון אלהיהם ולשמחה ויאמרו נתן אלהינו בידנו את שמשון אויבנו",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 24,
+        "text": "ויראו אתו העם ויהללו את־אלהיהם כי אמרו נתן אלהינו בידנו את־אויבנו ואת מחריב ארצנו ואשר הרבה את־חללינו",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 25,
+        "text": "ויהי (כי טוב) [כטוב] לבם ויאמרו קראו לשמשון וישחק־לנו ויקראו לשמשון מבית (האסירים) [האסורים] ויצחק לפניהם ויעמידו אותו בין העמודים",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 26,
+        "text": "ויאמר שמשון אל־הנער המחזיק בידו הניחה אותי (והימשני) [והמישני] את־העמדים אשר הבית נכון עליהם ואשען עליהם",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 27,
+        "text": "והבית מלא האנשים והנשים ושמה כל סרני פלשתים ועל־הגג כשךשת אלפים איש ואשה הראים בשחוק שמשון",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 28,
+        "text": "ויקרא שמשון אל־יהוה ויאמר אדני יהוה זכרני נא וחזקני נא אל הפעם הזה האלהים ואנקמה נקם־אחת משתי עיני מפלשתים",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 29,
+        "text": "וילפת שמשון את־שני ׀ עמודי התוך אשר הבית נכון עליהם ויסמך עליהם אחד בימינו ואחד בשמאלו",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 30,
+        "text": "ויאמר שמשון תמות נפשי עם־פלשתים ויט בכח ויפל הבית על־הסרנים ועל־כל־העם אשר־בו ויהיו המתים אשר המית במותו רבים מאשר המית בחייו",
+        "page": 327
+      },
+      {
+        "id": "shoftim-16-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 16,
+        "verse": 31,
+        "text": "וירדו אחיו וכל־בית אביהו וישאו אתו ויעלו ׀ ויקברו אותו בין צרעה ובין אשתאל בקבר מנוח אביו והוא שפט את־ישראל עשרים שנה",
+        "page": 327
+      }
+    ],
+    "17": [
+      {
+        "id": "shoftim-17-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 1,
+        "text": "ויהי־איש מהר־אפרים ושמו מיכיהו",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 2,
+        "text": "ויאמר לאמו אלף ומאה הכסף אשר לקח־לך (ואתי) [ואת] אלית וגם אמרת באזני הנה־הכסף אתי אני לקחתיו ותאמר אמו ברוך בני ליהוה",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 3,
+        "text": "וישב את־אלף־ומאה הכסף לאמו ותאמר אמו הקדש הקדשתי את־הכסף ליהוה מידי לבני לעשות פסל ומסכה ועתה אשיבנו לך",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 4,
+        "text": "וישב את־הכסף לאמו ותקח אמו מאתים כסף ותתנהו לצורף ויעשהו פסל ומסכה ויהי בבית מיכיהו",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 5,
+        "text": "והאיש מיכה לו בית אלהים ויעש אפוד ותרפים וימלא את־יד אחד מבניו ויהי־לו לכהן",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 6,
+        "text": "בימים ההם אין מלך בישראל איש הישר בעיניו יעשה",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 7,
+        "text": "ויהי־נער מבית לחם יהודה ממשפחת יהודה והוא לוי והוא גר־שם",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 8,
+        "text": "וילך האיש מהעיר מבית לחם יהודה לגור באשר ימצא ויבא הר־אפרים עד־בית מיכה לעשות דרכו",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 9,
+        "text": "ויאמר־לו מיכה מאין תבוא ויאמר אליו לוי אנכי מבית לחם יהודה ואנכי הלך לגור באשר אמצא",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 10,
+        "text": "ויאמר לו מיכה שבה עמדי והיה־לי לאב ולכהן ואנכי אתן־לך עשרת כסף לימים וערך בגדים ומחיתך וילך הלוי",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 11,
+        "text": "ויואל הלוי לשבת את־האיש ויהי הנער לו כאחד מבניו",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 12,
+        "text": "וימלא מיכה את־יד הלוי ויהי־לו הנער לכהן ויהי בבית מיכה",
+        "page": 328
+      },
+      {
+        "id": "shoftim-17-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 17,
+        "verse": 13,
+        "text": "ויאמר מיכה עתה ידעתי כי־ייטיב יהוה לי כי היה־לי הלוי לכהן",
+        "page": 328
+      }
+    ],
+    "18": [
+      {
+        "id": "shoftim-18-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 1,
+        "text": "בימים ההם אין מלך בישראל ובימים ההם שבט הדני מבקש־לו נחלה לשבת כי ךא־נפלה לו עד־היום ההוא בתוך־שבטי ישראל בנחלה",
+        "page": 328
+      },
+      {
+        "id": "shoftim-18-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 2,
+        "text": "וישלחו בני־דן ׀ ממשפחתם חמשה אנשים מקצותם אנשים בני־חיל מצרעה ומאשתאל לרגל את־הארץ ולחקרה ויאמרו אלהם לכו חקרו את־הארץ ויבאו הר־אפרים עד־בית מיכה וילינו שם",
+        "page": 328
+      },
+      {
+        "id": "shoftim-18-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 3,
+        "text": "המה עם־בית מיכה והמה הכירו את־קול הנער הלוי ויסורו שם ויאמרו לו מי־הביאל הךם ומה־אתה עשה בזה ומה־לך פה",
+        "page": 328
+      },
+      {
+        "id": "shoftim-18-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 4,
+        "text": "ויאמר אלהם כזה וכזה עשה לי מיכה וישכרני ואהי־לו לכהן",
+        "page": 328
+      },
+      {
+        "id": "shoftim-18-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 5,
+        "text": "ויאמרו לו שאל־נא באלהים ונדעה התצלח דרכנו אשר אנחנו הלכים עליה",
+        "page": 328
+      },
+      {
+        "id": "shoftim-18-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 6,
+        "text": "ויאמר להם הכהן לכו לשלום נכח יהוה דרככם אשר תלכו־בה",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 7,
+        "text": "וילכו חמשת האנשים ויבאו לישה ויראו את־העם אשר־בקרבה יושבת־לבטח כמשפט צדנים שקט ׀ ובטח ואין־מכלים דבר בארץ יורש עצר ורחוקים המה מצידנים ודבר אין־להם עם־אדם",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 8,
+        "text": "ויבאו אל־אחיהם צרעה ואשתאל ויאמרו להם אחיהם מה אתם",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 9,
+        "text": "ויאמרו קומה ונעלה עליהם כי ראינו את־הארץ והנה טובה מאד ואתם מחשים אל־תעצלו ללכת לבא לרשת את־הארץ",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 10,
+        "text": "כבאכם תבאו ׀ אל־עם בטח והארץ רחבת ידים כי־נתנה אלהים בידכם מקום אשר אין־שם מחסור כל־דבר אשר בארץ",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 11,
+        "text": "ויסעו משם ממשפחת הדני מצרעה ומאשתאל שש־מאות איש חגור כלי מלחמה",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 12,
+        "text": "ויעלו ויחנו בקרית יערים ביהודה על־כן קראו למקום ההוא מחנה־דן עד היום הזה הנה אחרי קרית יערים",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 13,
+        "text": "ויעברו משם הר־אפרים ויבאו עד־בית מיכה",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 14,
+        "text": "ויענו חמשת האנשים ההלכים לרגל את־הארץ ליש ויאמרו אל־אחיהם הידעתם כי יש בבתים האלה אפוד ותרפים ופסל ומסכה ועתה דעו מה־תעשו",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 15,
+        "text": "ויסורו שמה ויבאו אל־בית־הנער הלוי בית מיכה וישאלו־לו לשלום",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 16,
+        "text": "ושש־מאות איש חגורים כלי מלחמתם נצבים פתח השער אשר מבני־דן",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 17,
+        "text": "ויעלו חמשת האנשים ההלכים לרגל את־הארץ באו שמה לקחו את־הפסל ואת־האפוד ואת־התרפים ואת־המסכה והכהן נצב פתח השער ושש־מאות האיש החגור כלי המלחמה",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 18,
+        "text": "ואלה באו בית מיכה ויקחו את־פסל האפוד ואת־התרפים ואת־המסכה ויאמר אליהם הכהן מה אתם עשים",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 19,
+        "text": "ויאמרו לו החרש שים־ידך על־פיך ולך עמנו והיה־לנו לאב ולכהן הטוב ׀ היותך כהן לבית איש אחד או היותך כהן לשבט ולמשפחה בישראל",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 20,
+        "text": "וייטב לב הכהן ויקח את־האפוד ואת־התרפים ואת־הפסל ויבא בקרב העם",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 21,
+        "text": "ויפנו וילכו וישימו את־הטף ואת־המקנה ואת־הכבודה לפניהם",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 22,
+        "text": "המה הרחיקו מבית מיכה והאנשים אשר בבתים אשר עם־בית מיכה נזעקו וידביקו את־בני־דן",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 23,
+        "text": "ויקראו אל־בני־דן ויסבו פניהם ויאמרו למיכה מה־לך כי נזעקת",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 24,
+        "text": "ויאמר את־אלהי אשר־עשיתי לקחתם ואת־הכהן ותלכו ומה־לי עוד ומה־זה תאמרו אלי מה־לך",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 25,
+        "text": "ויאמרו אליו בני־דן אל־תשמע קולך עמנו פן־יפגעו בכם אנשים מרי נפש ואספתה נפשך ונפש ביתך",
+        "page": 329
+      },
+      {
+        "id": "shoftim-18-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 26,
+        "text": "וילכו בני־דן לדרכם וירא מיכה כי־חזקים המה ממנו ויפן וישב אל־ביתו",
+        "page": 330
+      },
+      {
+        "id": "shoftim-18-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 27,
+        "text": "והמה לקחו את אשר־עשה מיכה ואת־הכהן אשר היה־לו ויבאו על־ליש על־עם שקט ובטח ויכו אותם לפי־חרב ואת־העיר שרפו באש",
+        "page": 330
+      },
+      {
+        "id": "shoftim-18-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 28,
+        "text": "ואין מציל כי רחוקה־היא מצידון ודבר אין־להם עם־אדם והיא בעמק אשר לבית־רחוב ויבנו את־העיר וישבו בה",
+        "page": 330
+      },
+      {
+        "id": "shoftim-18-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 29,
+        "text": "ויקראו שם־העיר דן בשם דן אביהם אשר יולד לישראל ואולם ליש שם־העיר לראשנה שה הוא ובניו היו כהנים לשבט הדני עד־יום נ",
+        "page": 330
+      },
+      {
+        "id": "shoftim-18-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 30,
+        "text": "ויקימו להם בני־דן את־הפסל ויהונתן בן־גרשם בן־מ גלות הארץ",
+        "page": 330
+      },
+      {
+        "id": "shoftim-18-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 18,
+        "verse": 31,
+        "text": "וישימו להם את־פסל מיכה אשר עשה כל־ימי היות בית־האלהים בשךה",
+        "page": 330
+      }
+    ],
+    "19": [
+      {
+        "id": "shoftim-19-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 1,
+        "text": "ויהי בימים ההם ומלך אין בישראל ויהי ׀ איש לוי גר בירכתי הר־אפרים ויקח־לו אשה פילגש מבית לחם יהודה",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 2,
+        "text": "ותזנה עליו פילגשו ותלך מאתו אל־בית אביה אל־בית לחם יהודה ותהי־שם ימים ארבעה חדשים",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 3,
+        "text": "ויקם אישה וילך אחריה לדבר על־לבה (להשיבו) [להשיבה] ונערו עמו וצמד חמרים ותביאהו בית אביה ויראהו אבי הנערה וישמח לקראתו",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 4,
+        "text": "ויחזק־בו חתנו אבי הנערה וישב אתו שךשת ימים ויאכלו וישתו וילינו שם",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 5,
+        "text": "ויהי ביום הרביעי וישכימו בבקר ויקם ללכת ויאמר אבי הנערה אל־חתנו סעד לבך פת־לחם ואחר תלכו",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 6,
+        "text": "וישבו ויאכלו שניהם יחדו וישתו ויאמר אבי הנערה אל־האיש הואל־נא ולין וייטב לבך",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 7,
+        "text": "ויקם האיש ללכת ויפצר־בו חתנו וישב וילן שם",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 8,
+        "text": "וישכם בבקר ביום החמישי ללכת ויאמר ׀ אבי הנערה סעד־נא לבבך והתמהמהו עד־נטות היום ויאכלו שניהם",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 9,
+        "text": "ויקם האיש ללכת הוא ופילגשו ונערו ויאמר לו חתנו אבי הנערה הנה נא רפה היום לערוב לינו־נא הנה חנות היום לין פה וייטב לבבך והשכמתם מחר לדרככם והלכת לאהלך",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 10,
+        "text": "וךא־אבה האיש ללון ויקם וילך ויבא עד־נכח יבוס היא ירושל ם ועמו צמד חמורים חבושים ופילגשו עמו",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 11,
+        "text": "הם עם־יבוס והיום רד מאד ויאמר הנער אל־אדניו לכה־נא ונסורה אל־עיר־היבוסי הזאת ונלין בה",
+        "page": 330
+      },
+      {
+        "id": "shoftim-19-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 12,
+        "text": "ויאמר אליו אדניו ךא נסור אל־עיר נכרי אשר ךא־מבני ישראל הנה ועברנו עד־גבעה",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 13,
+        "text": "ויאמר לנערו לך ונקרבה באחד המקמות ולנו בגבעה או ברמה",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 14,
+        "text": "ויעברו וילכו ותבא להם השמש אצל הגבעה אשר לבנימן",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 15,
+        "text": "ויסרו שם לבוא ללון בגבעה ויבא וישב ברחוב העיר ואין איש מאסף־אותם הביתה ללון",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 16,
+        "text": "והנה ׀ איש זקן בא מן־מעשהו מן־השדה בערב והאיש מהר אפרים והוא־גר בגבעה ואנשי המקום בני ימיני",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 17,
+        "text": "וישא עיניו וירא את־האיש הארח ברחב העיר ויאמר האיש הזקן אנה תלך ומאין תבוא",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 18,
+        "text": "ויאמר אליו עברים אנחנו מבית־לחם יהודה עד־ירכתי הר־אפרים משם אנכי ואלך עד־בית לחם יהודה ואת־בית יהוה אני הלך ואין איש מאסף אותי הביתה",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 19,
+        "text": "וגם־תבן גם־מספוא יש לחמורינו וגם לחם ויין יש־לי ולאמתך ולנער עם־עבדיך אין מחסור כל־דבר",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 20,
+        "text": "ויאמר האיש הזקן שלום לך רק כל־מחסורך עלי רק ברחוב אל־תלן",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 21,
+        "text": "ויביאהו לביתו (ויבול) [ויבל] לחמורים וירחצו רגליהם ויאכלו וישתו",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 22,
+        "text": "המה מיטיבים את־לבם והנה אנשי העיר אנשי בני־בליעל נסבו את־הבית מתדפקים על־הדלת ויאמרו אל־האיש בעל הבית הזקן לאמר הוצא את־האיש אשר־בא אל־ביתך ונדענו",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 23,
+        "text": "ויצא אליהם האיש בעל הבית ויאמר אלהם אל־אחי אל־תרעו נא אחרי אשר־בא האיש הזה אל־ביתי אל־תעשו את־הנבלה הזאת",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 24,
+        "text": "הנה בתי הבתולה ופילגשהו אוציאה־נא אותם וענו אותם ועשו להם הטוב בעיניכם ולאיש הזה ךא תעשו דבר הנבלה הזאת",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 25,
+        "text": "וךא־אבו האנשים לשמע לו ויחזק האיש בפילגשו ויצא אליהם החוץ וידעו אותה ויתעללו־בה כל־הלילה עד־הבקר וישלחוה (בעלות) [כעלות] השחר",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 26,
+        "text": "ותבא האשה לפנות הבקר ותפל פתח בית־האיש אשר־אדוניה שם עד־האור",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 27,
+        "text": "ויקם אדניה בבקר ויפתח דלתות הבית ויצא ללכת לדרכו והנה האשה פילגשו נפלת פתח הבית וידיה על־הסף",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 28,
+        "text": "ויאמר אליה קומי ונלכה ואין ענה ויקחה על־החמור ויקם האיש וילך למקמו",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 29,
+        "text": "ויבא אל־ביתו ויקח את־המאכלת ויחזק בפילגשו וינתחה לעצמיה לשנים עשר נתחים וישלחה בכל גבול ישראל",
+        "page": 331
+      },
+      {
+        "id": "shoftim-19-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 19,
+        "verse": 30,
+        "text": "והיה כל־הראה ואמר ךא־נהיתה וךא־נראתה כזאת למיום עלות בני־ישראל מארץ מצרים עד היום הזה שימו־לכם עליה עצו ודברו",
+        "page": 331
+      }
+    ],
+    "20": [
+      {
+        "id": "shoftim-20-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 1,
+        "text": "ויצאו כל־בני ישראל ותקהל העדה כאיש אחד למדן ועד־באר שבע וארץ הגלעד אל־יהוה המצפה",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 2,
+        "text": "ויתיצבו פנות כל־העם כל שבטי ישראל בקהל עם האלהים ארבע מאות אלף איש רגלי שלף חרב",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 3,
+        "text": "וישמעו בני בנימן כי־עלו בני־ישראל המצפה ויאמרו בני ישראל דברו איכה נהיתה הרעה הזאת",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 4,
+        "text": "ויען האיש הלוי איש האשה הנרצחה ויאמר הגבעתה אשר לבנימן באתי אני ופילגשי ללון",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 5,
+        "text": "ויקמו עלי בעלי הגבעה ויסבו עלי את־הבית לילה אותי דמו להרג ואת־פילגשי ענו ותמת",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 6,
+        "text": "ואחז בפילגשי ואנתחה ואשלחה בכל־שדה נחלת ישראל כי עשו זמה ונבלה בישראל",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 7,
+        "text": "הנה כלכם בני ישראל הבו לכם דבר ועצה הךם",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 8,
+        "text": "ויקם כל־העם כאיש אחד לאמר ךא נלך איש לאהלו וךא נסור איש לביתו",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 9,
+        "text": "ועתה זה הדבר אשר נעשה לגבעה עליה בגורל",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 10,
+        "text": "ולקחנו עשרה אנשים למאה לכל ׀ שבטי ישראל ומאה לאלף ואלף לרבבה לקחת צדה לעם לעשות לבואם לגבע בנימן ככל־הנבלה אשר עשה בישראל",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 11,
+        "text": "ויאסף כל־איש ישראל אל־העיר כאיש אחד חברים",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 12,
+        "text": "וישלחו שבטי ישראל אנשים בכל־שבטי בנימן לאמר מה הרעה הזאת אשר נהיתה בכם",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 13,
+        "text": "ועתה תנו את־האנשים בני־בליעל אשר בגבעה ונמיתם ונבערה רעה מישראל וךא אבו [בני] בנימן לשמע בקול אחיהם בני־ישראל",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 14,
+        "text": "ויאספו בני־בנימן מן־הערים הגבעתה לצאת למלחמה עם־בני ישראל",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 15,
+        "text": "ויתפקדו בני בנימן ביום ההוא מהערים עשרים וששה אלף איש שלף חרב לבד מישבי הגבעה התפקדו שבע מאות איש בחור",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 16,
+        "text": "מכל ׀ העם הזה שבע מאות איש בחור אטר יד־ימינו כל־זה קלע באבן אל־השערה וךא יחטא",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 17,
+        "text": "ואיש ישראל התפקדו לבד מבנימן ארבע מאות אלף איש שלף חרב כל־זה איש מלחמה",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 18,
+        "text": "ויקמו ויעלו בית־אל וישאלו באלהים ויאמרו בני ישראל מי יעלה־לנו בתחלה למלחמה עם־בני בנימן ויאמר יהוה יהודה בתחלה",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 19,
+        "text": "ויקומו בני־ישראל בבקר ויחנו על־הגבעה",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 20,
+        "text": "ויצא איש ישראל למלחמה עם־בנימן ויערכו אתם איש־ישראל מלחמה אל־הגבעה",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 21,
+        "text": "ויצאו בני־בנימן מן־הגבעה וישחיתו בישראל ביום ההוא שנים ועשרים אלף איש ארצה",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 22,
+        "text": "ויתחזק העם איש ישראל ויספו לערך מלחמה במקום אשר־ערכו שם ביום הראשון",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 23,
+        "text": "ויעלו בני־ישראל ויבכו לפני־יהוה עד־הערב וישאלו ביהוה לאמר האוסיף לגשת למלחמה עם־בני בנימן אחי ויאמר יהוה עלו אליו",
+        "page": 332
+      },
+      {
+        "id": "shoftim-20-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 24,
+        "text": "ויקרבו בני־ישראל אל־בני בנימן ביום השני",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 25,
+        "text": "ויצא בנימן ׀ לקראתם ׀ מן־הגבעה ביום השני וישחיתו בבני ישראל עוד שמנת עשר אלף איש ארצה כל־אלה שלפי חרב",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-26",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 26,
+        "text": "ויעלו כל־בני ישראל וכל־העם ויבאו בית־אל ויבכו וישבו שם לפני יהוה ויצומו ביום־ההוא עד־הערב ויעלו עלות ושלמים לפני יהוה",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-27",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 27,
+        "text": "וישאלו בני־ישראל ביהוה ושם ארון ברית האלהים בימים ההם",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-28",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 28,
+        "text": "ופינחס בן־אלעזר בן־אהרן עמד ׀ לפניו בימים ההם לאמר האוסף עוד לצאת למלחמה עם־בני־בנימן אחי אם־אחדל ויאמר יהוה עלו כי מחר אתננו בידך",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-29",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 29,
+        "text": "וישם ישראל ארבים אל־הגבעה סביב",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-30",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 30,
+        "text": "ויעלו בני־ישראל אל־בני בנימן ביום השלישי ויערכו אל־הגבעה כפעם בפעם",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-31",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 31,
+        "text": "ויצאו בני־בנימן לקראת העם הנתקו מן־העיר ויחלו להכות מהעם חללים כפעם ׀ בפעם במסלות אשר אחת עלה בית־אל ואחת גבעתה בשדה כשךשים איש בישראל",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-32",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 32,
+        "text": "ויאמרו בני בנימן נגפים הם לפנינו כבראשנה ובני ישראל אמרו ננוסה ונתקנוהו מן־העיר אל־המסלות",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-33",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 33,
+        "text": "וכל ׀ איש ישראל קמו ממקומו ויערכו בבעל תמר וארב ישראל מגיח ממקמו ממערה גבע",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-34",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 34,
+        "text": "ויבאו מנגד לגבעה עשרת אלפים איש בחור מכל־ישראל והמלחמה כבדה והם ךא ידעו כי־נגעת עליהם הרעה",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-35",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 35,
+        "text": "ויגף יהוה ׀ את־בנימן לפני ישראל וישחיתו בני ישראל בבנימן ביום ההוא עשרים וחמשה אלף ומאה איש כל־אלה שלף חרב",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-36",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 36,
+        "text": "ויראו בני־בנימן כי נגפו ויתנו איש־ישראל מקום לבנימן כי בטחו אל־הארב אשר־שמו אל־הגבעה",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-37",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 37,
+        "text": "והארב החישו ויפשטו אל־הגבעה וימשך הארב ויך את־כל־העיר לפי־חרב",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-38",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 38,
+        "text": "והמועד היה לאיש ישראל עם־הארב הרב להעלותם משאת העשן מן־העיר",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-39",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 39,
+        "text": "ויהפך איש־ישראל במלחמה ובנימן החל להכות חללים באיש־ישראל כשךשים איש כי אמרו אל נגוף נגף הוא לפנינו כמלחמה הראשנה",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-40",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 40,
+        "text": "והמשאת החלה לעלות מן־העיר עמוד עשן ויפן בנימן אחריו והנה עלה כליל־העיר השמימה",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-41",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 41,
+        "text": "ואיש ישראל הפך ויבהל איש בנימן כי ראה כי־נגעה עליו הרעה",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-42",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 42,
+        "text": "ויפנו לפני איש ישראל אל־דרך המדבר והמלחמה הדביקתהו ואשר מהערים משחיתים אותו בתוכו",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-43",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 43,
+        "text": "כתרו את־בנימן הרדיפהו מנוחה הדריכהו עד נכח הגבעה ממזרח־שמש",
+        "page": 333
+      },
+      {
+        "id": "shoftim-20-44",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 44,
+        "text": "ויפלו מבנימן שמנה־עשר אלף איש את־כל־אלה אנשי־חיל",
+        "page": 334
+      },
+      {
+        "id": "shoftim-20-45",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 45,
+        "text": "ויפנו וינסו המדברה אל־סלע הרמון ויעללהו במסלות חמשת אלפים איש וידביקו אחריו עד־גדעם ויכו ממנו אלפים איש",
+        "page": 334
+      },
+      {
+        "id": "shoftim-20-46",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 46,
+        "text": "ויהי כל־הנפלים מבנימן עשרים וחמשה אלף איש שלף חרב ביום ההוא את־כל־אלה אנשי־חיל",
+        "page": 334
+      },
+      {
+        "id": "shoftim-20-47",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 47,
+        "text": "ויפנו וינסו המדברה אל־סלע הרמון שש מאות איש וישבו בסלע רמון ארבעה חדשים",
+        "page": 334
+      },
+      {
+        "id": "shoftim-20-48",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 20,
+        "verse": 48,
+        "text": "ואיש ישראל שבו אל־בני בנימן ויכום לפי־חרב מעיר מתם עד־בהמה עד כל־הנמצא גם כל־הערים הנמצאות שלחו באש",
+        "page": 334
+      }
+    ],
+    "21": [
+      {
+        "id": "shoftim-21-1",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 1,
+        "text": "ואיש ישראל נשבע במצפה לאמר איש ממנו ךא־יתן בתו לבנימן לאשה",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-2",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 2,
+        "text": "ויבא העם בית־אל וישבו שם עד־הערב לפני האלהים וישאו קולם ויבכו בכי גדול",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-3",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 3,
+        "text": "ויאמרו למה יהוה אלהי ישראל היתה זאת בישראל להפקד היום מישראל שבט אחד",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-4",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 4,
+        "text": "ויהי ממחרת וישכימו העם ויבנו־שם מזבח ויעלו עלות ושלמים",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-5",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 5,
+        "text": "ויאמרו בני ישראל מי אשר ךא־עלה בקהל מכל־שבטי ישראל אל־יהוה כי השבועה הגדולה היתה לאשר ךא־עלה אל־יהוה המצפה לאמר מות יומת",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-6",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 6,
+        "text": "וינחמו בני ישראל אל־בנימן אחיו ויאמרו נגדע היום שבט אחד מישראל",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-7",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 7,
+        "text": "מה־נעשה להם לנותרים לנשים ואנחנו נשבענו ביהוה לבלתי תת־להם מבנותינו לנשים",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-8",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 8,
+        "text": "ויאמרו מי אחד משבטי ישראל אשר ךא־עלה אל־יהוה המצפה והנה ךא בא־איש אל־המחנה מיביש גלעד אל־הקהל",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-9",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 9,
+        "text": "ויתפקד העם והנה אין־שם איש מיושבי יבש גלעד",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-10",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 10,
+        "text": "וישלחו־שם העדה שנים־עשר אלף איש מבני החיל ויצוו אותם לאמר לכו והכיתם את־יושבי יבש גלעד לפי־חרב והנשים והטף",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-11",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 11,
+        "text": "וזה הדבר אשר תעשו כל־זכר וכל־אשה ידעת משכב־זכר תחרימו",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-12",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 12,
+        "text": "וימצאו מיושבי ׀ יביש גלעד ארבע מאות נערה בתולה אשר ךא־ידעה איש למשכב זכר ויבאו אותם אל־המחנה שךה אשר בארץ כנען",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-13",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 13,
+        "text": "וישלחו כל־העדה וידברו אל־בני בנימן אשר בסלע רמון ויקראו להם שלום",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-14",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 14,
+        "text": "וישב בנימן בעת ההיא ויתנו להם הנשים אשר חיו מנשי יבש גלעד וךא־מצאו להם כן",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-15",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 15,
+        "text": "והעם נחם לבנימן כי־עשה יהוה פרץ בשבטי ישראל",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-16",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 16,
+        "text": "ויאמרו זקני העדה מה־נעשה לנותרים לנשים כי־נשמדה מבנימן אשה",
+        "page": 334
+      },
+      {
+        "id": "shoftim-21-17",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 17,
+        "text": "ויאמרו ירשת פליטה לבנימן וךא־ימחה שבט מישראל",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-18",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 18,
+        "text": "ואנחנו ךא נוכל לתת־להם נשים מבנותינו כי־נשבעו בני־ישראל לאמר ארור נתן אשה לבנימן",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-19",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 19,
+        "text": "ויאמרו הנה חג־יהוה בשלו מימים ׀ ימימה אשר מצפונה לבית־אל מזרחה השמש למסלה העלה מבית־אל שכמה ומנגב ללבונה",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-20",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 20,
+        "text": "(ויצו) [ויצוו] את־בני בנימן לאמר לכו וארבתם בכרמים",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-21",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 21,
+        "text": "וראיתם והנה אם־יצאו בנות־שילו לחול במחלות ויצאתם מן־הכרמים וחטפתם לכם איש אשתו מבנות שילו והלכתם ארץ בנימן",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-22",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 22,
+        "text": "והיה כי־יבאו אבותם או אחיהם (לרוב) [לריב ׀] אלינו ואמרנו אליהם חנונו אותם כי ךא לקחנו איש אשתו במלחמה כי ךא אתם נתתם להם כעת תאשמו",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-23",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 23,
+        "text": "ויעשו־כן בני בנימן וישאו נשים למספרם מן־המחללות אשר גזלו וילכו וישובו אל־נחלתם ויבנו את־הערים וישבו בהם",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-24",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 24,
+        "text": "ויתהלכו משם בני־ישראל בעת ההיא איש לשבטו ולמשפחתו ויצאו משם איש לנחלתו",
+        "page": 335
+      },
+      {
+        "id": "shoftim-21-25",
+        "book": "שופטים",
+        "book_en": "Judges",
+        "book_id": "shoftim",
+        "chapter": 21,
+        "verse": 25,
+        "text": "בימים ההם אין מלך בישראל איש הישר בעיניו יעשה",
+        "page": 335
+      }
+    ]
+  }
+}

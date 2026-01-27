@@ -1,0 +1,2415 @@
+{
+  "name_he": "זכריה",
+  "name_en": "Zechariah",
+  "id": "zecharya",
+  "chapters": {
+    "1": [
+      {
+        "id": "zecharya-1-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 691
+      },
+      {
+        "id": "zecharya-1-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 691
+      },
+      {
+        "id": "zecharya-1-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 691
+      },
+      {
+        "id": "zecharya-1-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 691
+      },
+      {
+        "id": "zecharya-1-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 691
+      },
+      {
+        "id": "zecharya-1-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 692
+      },
+      {
+        "id": "zecharya-1-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 1,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 692
+      }
+    ],
+    "2": [
+      {
+        "id": "zecharya-2-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 692
+      },
+      {
+        "id": "zecharya-2-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 692
+      },
+      {
+        "id": "zecharya-2-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 692
+      },
+      {
+        "id": "zecharya-2-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 692
+      },
+      {
+        "id": "zecharya-2-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 692
+      },
+      {
+        "id": "zecharya-2-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 692
+      },
+      {
+        "id": "zecharya-2-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 693
+      },
+      {
+        "id": "zecharya-2-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 2,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 693
+      }
+    ],
+    "3": [
+      {
+        "id": "zecharya-3-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 693
+      },
+      {
+        "id": "zecharya-3-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 694
+      },
+      {
+        "id": "zecharya-3-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 3,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 694
+      }
+    ],
+    "4": [
+      {
+        "id": "zecharya-4-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 694
+      },
+      {
+        "id": "zecharya-4-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 695
+      },
+      {
+        "id": "zecharya-4-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 695
+      },
+      {
+        "id": "zecharya-4-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 695
+      },
+      {
+        "id": "zecharya-4-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 695
+      },
+      {
+        "id": "zecharya-4-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 695
+      },
+      {
+        "id": "zecharya-4-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 695
+      },
+      {
+        "id": "zecharya-4-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 4,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 695
+      }
+    ],
+    "5": [
+      {
+        "id": "zecharya-5-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 695
+      },
+      {
+        "id": "zecharya-5-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 696
+      },
+      {
+        "id": "zecharya-5-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 696
+      },
+      {
+        "id": "zecharya-5-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 696
+      },
+      {
+        "id": "zecharya-5-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 696
+      },
+      {
+        "id": "zecharya-5-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 5,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 696
+      }
+    ],
+    "6": [
+      {
+        "id": "zecharya-6-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 696
+      },
+      {
+        "id": "zecharya-6-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 697
+      },
+      {
+        "id": "zecharya-6-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 697
+      },
+      {
+        "id": "zecharya-6-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 6,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 697
+      }
+    ],
+    "7": [
+      {
+        "id": "zecharya-7-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 697
+      },
+      {
+        "id": "zecharya-7-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 698
+      },
+      {
+        "id": "zecharya-7-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 7,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 698
+      }
+    ],
+    "8": [
+      {
+        "id": "zecharya-8-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 698
+      },
+      {
+        "id": "zecharya-8-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 8,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 699
+      }
+    ],
+    "9": [
+      {
+        "id": "zecharya-9-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 699
+      },
+      {
+        "id": "zecharya-9-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 9,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 699
+      }
+    ],
+    "10": [
+      {
+        "id": "zecharya-10-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 700
+      },
+      {
+        "id": "zecharya-10-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 10,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 700
+      }
+    ],
+    "11": [
+      {
+        "id": "zecharya-11-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 700
+      },
+      {
+        "id": "zecharya-11-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 700
+      },
+      {
+        "id": "zecharya-11-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 701
+      },
+      {
+        "id": "zecharya-11-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 11,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 701
+      }
+    ],
+    "12": [
+      {
+        "id": "zecharya-12-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 701
+      },
+      {
+        "id": "zecharya-12-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 701
+      },
+      {
+        "id": "zecharya-12-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 701
+      },
+      {
+        "id": "zecharya-12-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 701
+      },
+      {
+        "id": "zecharya-12-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 702
+      },
+      {
+        "id": "zecharya-12-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 12,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 702
+      }
+    ],
+    "13": [
+      {
+        "id": "zecharya-13-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 702
+      },
+      {
+        "id": "zecharya-13-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 702
+      },
+      {
+        "id": "zecharya-13-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 702
+      },
+      {
+        "id": "zecharya-13-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 702
+      },
+      {
+        "id": "zecharya-13-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 702
+      },
+      {
+        "id": "zecharya-13-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 703
+      },
+      {
+        "id": "zecharya-13-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 13,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 703
+      }
+    ],
+    "14": [
+      {
+        "id": "zecharya-14-1",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 1,
+        "text": "בחדש השמיני בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיה בן־עדו הנביא לאמר",
+        "page": 703
+      },
+      {
+        "id": "zecharya-14-2",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 2,
+        "text": "קצף יהוה על־אבותיכם קצף",
+        "page": 703
+      },
+      {
+        "id": "zecharya-14-3",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 3,
+        "text": "ואמרת אלהם כה אמר יהוה צבאות שובו אלי נאם יהוה צבאות ואשוב אליכם אמר יהוה צבאות",
+        "page": 703
+      },
+      {
+        "id": "zecharya-14-4",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 4,
+        "text": "אל־תהיו כאבתיכם אשר קראו־אליהם הנביאים הראשנים לאמר כה אמר יהוה צבאות שובו נא מדרכיכם הרעים (ומעליליכם) [ומעלליכם] הרעים וךא שמעו וךא־הקשיבו אלי נאם־יהוה",
+        "page": 703
+      },
+      {
+        "id": "zecharya-14-5",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 5,
+        "text": "אבותיכם איה־הם והנבאים הלעולם יחיו",
+        "page": 703
+      },
+      {
+        "id": "zecharya-14-6",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 6,
+        "text": "אל ׀ דברי וחקי אשר צויתי את־עבדי הנביאים הלוא השיגו אבתיכם וישובו ויאמרו כאשר זמם יהוה צבאות לעשות לנו כדרכינו וכמעללינו כן עשה אתנו",
+        "page": 703
+      },
+      {
+        "id": "zecharya-14-7",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 7,
+        "text": "ביום עשרים וארבעה לעשתי־עשר חדש הוא־חדש שבט בשנת שתים לדריוש היה דבר־יהוה אל־זכריה בן־ברכיהו בן־עדוא הנביא לאמר",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-8",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 8,
+        "text": "ראיתי ׀ הלילה והנה־איש רכב על־סוס אדם והוא עמד בין ההדסים אשר במצלה ואחריו סוסים אדמים שרקים ולבנים",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-9",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 9,
+        "text": "ואמר מה־אלה אדני ויאמר אלי המלאל הדבר בי אני אראך מה־המה אלה",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-10",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 10,
+        "text": "ויען האיש העמד בין־ההדסים ויאמר אלה אשר שלח יהוה להתהלך בארץ",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-11",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 11,
+        "text": "ויענו את־מלאל יהוה העמד בין ההדסים ויאמרו התהלכנו בארץ והנה כל־הארץ ישבת ושקטת",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-12",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 12,
+        "text": "ויען מלאל־יהוה ויאמר יהוה צבאות עד־מתי אתה ךא־תרחם את־ירושל ם ואת ערי יהודה אשר זעמתה זה שבעים שנה",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-13",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 13,
+        "text": "ויען יהוה את־המלאל הדבר בי דברים טובים דברים נחמים",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-14",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 14,
+        "text": "ויאמר אלי המלאל הדבר בי קרא לאמר כה אמר יהוה צבאות קנאתי לירושל ם ולציון קנאה גדולה",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-15",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 15,
+        "text": "וקצף גדול אני קצף על־הגוים השאננים אשר אני קצפתי מעט והמה עזרו לרעה",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-16",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 16,
+        "text": "לכן כה־אמר יהוה שבתי לירושל ם ברחמים ביתי יבנה בה נאם יהוה צבאות (וקוה) [וקו] ינטה על־ירושל ם",
+        "page": 704
+      },
+      {
+        "id": "zecharya-14-17",
+        "book": "זכריה",
+        "book_en": "Zechariah",
+        "book_id": "zecharya",
+        "chapter": 14,
+        "verse": 17,
+        "text": "עוד ׀ קרא לאמר כה אמר יהוה צבאות עוד תפוצנה ערי מטוב ונחם יהוה עוד את־ציון ובחר עוד בירושל ם",
+        "page": 704
+      }
+    ]
+  }
+}

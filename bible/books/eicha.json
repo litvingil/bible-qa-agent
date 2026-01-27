@@ -1,0 +1,1557 @@
+{
+  "name_he": "איכה",
+  "name_en": "Lamentations",
+  "id": "eicha",
+  "chapters": {
+    "1": [
+      {
+        "id": "eicha-1-1",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 1,
+        "text": "איכה ׀ ישבה בדד העיר רבתי עם היתה כאלמנה רבתי בגוים שרתי במדינות היתה למס",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-2",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 2,
+        "text": "בכו תבכה בלילה ודמעתה על לחיה אין־לה מנחם מכל־אהביה כל־רעיה בגדו בה היו לה לאיבים",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-3",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 3,
+        "text": "גלתה יהודה מעני ומרב עבדה היא ישבה בגוים ךא מצאה מנוח כל־רדפיה השיגוה בין המצרים",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-4",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 4,
+        "text": "דרכי ציון אבלות מבלי באי מועד כל־שעריה שוממין כהניה נאנחים בתוךתיה נוגות והיא מר־לה",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-5",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 5,
+        "text": "היו צריה לראש איביה שלו כי־יהוה הוגה על רב־פשעיה עולליה הלכו שבי לפני־צר",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-6",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 6,
+        "text": "ויצא (מן בת) [מבת־]ציון כל־הדרה היו שריה כאילים ךא־מצאו מרעה וילכו בךא־כח לפני רודף",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-7",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 7,
+        "text": "זכרה ירושל ם ימי עניה ומרודיה כל מחמדיה אשר היו מימי קדם בנפל עמה ביד־צר ואין עוזר לה ראוה צרים שחקו על משבתה",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-8",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 8,
+        "text": "חטא חטאה ירושל ם על־כן לנידה היתה כל־מכבדיה הזילוה כי־ראו ערותה גם־היא נאנחה ותשב אחור",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-9",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 9,
+        "text": "טמאתה בשוליה ךא זכרה אחריתה ותרד פלאים אין מנחם לה ראה יהוה את־עניי כי הגדיל אויב",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-10",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 10,
+        "text": "ידו פרש צר על כל־מחמדיה כי־ראתה גוים באו מקדשה אשר צויתה ךא־יבאו בקהל לך",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-11",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 11,
+        "text": "כל־עמה נאנחים מבקשים לחם נתנו (מחמודיהם) [מחמדיהם] באכל להשיב נפש ראה יהוה והביטה כי הייתי זוללה",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-12",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 12,
+        "text": "לוא אליכם כל־עברי דרך הביטו וראו אם־יש מכאוב כמכאבי אשר עולל לי אשר הוגה יהוה ביום חרון אפו",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-13",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 13,
+        "text": "ממרום שלח־אש בעצמתי וירדנה פרש רשת לרגלי השיבני אחור נתנני שממה כל־היום דוה",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-14",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 14,
+        "text": "נשקד על פשעי בידו ישתרגו עלו על־צוארי הכשיל כחי נתנני אדני בידי ךא־אוכל קום",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-15",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 15,
+        "text": "סלה כל־אבירי ׀ אדני בקרבי קרא עלי מועד לשבר בחורי גת דרך אדני לבתולת בת־יהודה",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-16",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 16,
+        "text": "על־אלה ׀ אני בוכיה עיני ׀ עיני ירדה מים כי־רחק ממני מנחם משיב נפשי היו בני שוממים כי גבר אויב",
+        "page": 890
+      },
+      {
+        "id": "eicha-1-17",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 17,
+        "text": "פרשה ציון בידיה אין מנחם לה צוה יהוה ליעקב סביביו צריו היתה ירושל ם לנדה ביניהם",
+        "page": 891
+      },
+      {
+        "id": "eicha-1-18",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 18,
+        "text": "צדיק הוא יהוה כי פיהו מריתי שמעו־נא כל־[העמים] (עמים) וראו מכאבי בתוךתי ובחורי הלכו בשבי",
+        "page": 891
+      },
+      {
+        "id": "eicha-1-19",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 19,
+        "text": "קראתי למאהבי המה רמוני כהני וזקני בעיר גועו כי־בקשו אכל למו וישיבו את־נפשם",
+        "page": 891
+      },
+      {
+        "id": "eicha-1-20",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 20,
+        "text": "ראה יהוה כי־צר־לי מעי חמרמרו נהפך לבי בקרבי כי מרו מריתי מחוץ שכלה־חרב בבית כמות",
+        "page": 891
+      },
+      {
+        "id": "eicha-1-21",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 21,
+        "text": "שמעו כי נאנחה אני אין מנחם לי כל־איבי שמעו רעתי ששו כי אתה עשית הבאת יום־קראת ויהיו כמני",
+        "page": 891
+      },
+      {
+        "id": "eicha-1-22",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 1,
+        "verse": 22,
+        "text": "תבא כל־רעתם לפניך ועולל למו כאשר עוללת לי על כל־פשעי כי־רבות אנחתי ולבי דוי",
+        "page": 891
+      }
+    ],
+    "2": [
+      {
+        "id": "eicha-2-1",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 1,
+        "text": "איכה יעיב באפו ׀ אדני את־בת־ציון השליך משמים ארץ תפארת ישראל וךא־זכר הדם־רגליו ביום אפו",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-2",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 2,
+        "text": "בלע אדני (לא) [וךא] חמל את כל־נאות יעקב הרס בעברתו מבצרי בת־יהודה הגיע לארץ חלל ממלכה ושריה",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-3",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 3,
+        "text": "גדע בחרי־אף כל קרן ישראל השיב אחור ימינו מפני אויב ויבער ביעקב כאש להבה אכלה סביב",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-4",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 4,
+        "text": "דרך קשתו כאויב נצב ימינו כצר ויהרג כל מחמדי־עין באהל בת־ציון שפך כאש חמתו",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-5",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 5,
+        "text": "היה אדני ׀ כאויב בלע ישראל בלע כל־ארמנותיה שחת מבצריו וירב בבת־יהודה תאניה ואניה",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-6",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 6,
+        "text": "ויחמס כגן שכו שחת מעדו שכח יהוה ׀ בציון מועד ושבת וינאץ בזעם־אפו מלך וכהן",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-7",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 7,
+        "text": "זנח אדני ׀ מזבחו נאר מקדשו הסגיר ביד־אויב חומת ארמנותיה קול נתנו בבית־יהוה כיום מועד",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-8",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 8,
+        "text": "חשב יהוה ׀ להשחית חומת בת־ציון נטה קו ךא־השיב ידו מבלע ויאבל־חל וחומה יחדו אמללו",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-9",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 9,
+        "text": "טבעו בארץ שעריה אבד ושבר בריחיה מלכה ושריה בגוים אין תורה גם־נביאיה ךא־מצאו חזון מיהוה",
+        "page": 891
+      },
+      {
+        "id": "eicha-2-10",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 10,
+        "text": "ישבו לארץ ידמו זקני בת־ציון העלו עפר על־ראשם חגרו שקים הורידו לארץ ראשן בתוךת ירושל ם",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-11",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 11,
+        "text": "כלו בדמעות עיני חמרמרו מעי נשפך לארץ כבדי על־שבר בת־עמי בעטף עולל ויונק ברחבות קריה",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-12",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 12,
+        "text": "לאמתם יאמרו איה דגן ויין בהתעטפם כחלל ברחבות עיר בהשתפך נפשם אל־חיק אמתם",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-13",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 13,
+        "text": "מה־אעידך מה אדמה־לך הבת ירושל ם מה אשוה־לך ואנחמך בתולת בת־ציון כי־גדול כים שברך מי ירפא־לך",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-14",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 14,
+        "text": "נביאיך חזו לך שוא ותפל וךא־גלו על־עונך להשיב (שביתך) [שבותך] ויחזו לך משאות שוא ומדוחים",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-15",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 15,
+        "text": "ספקו עליך כפים כל־עברי דרך שרקו וינעו ראשם על־בת ירושל ם הזאת העיר שיאמרו כלילת יפי משוש לכל־הארץ",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-16",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 16,
+        "text": "פצו עליך פיהם כל־איביך שרקו ויחרקו־שן אמרו בלענו אל זה היום שקוינהו מצאנו ראינו",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-17",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 17,
+        "text": "עשה יהוה אשר זמם בצע אמרתו אשר צוה מימי־קדם הרס וךא חמל וישמח עליך אויב הרים קרן צריך",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-18",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 18,
+        "text": "צעק לבם אל־אדני חומת בת־ציון הורידי כנחל דמעה יומם ולילה אל־תתני פוגת לך אל־תדם בת־עינך",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-19",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 19,
+        "text": "קומי ׀ רני (בליל) [בלילה] לראש אשמרות שפכי כמים לבך נכח פני אדני שאי אליו כפיך על־נפש עולליך העטופים ברעב בראש כל־חוצות",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-20",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 20,
+        "text": "ראה יהוה והביטה למי עוללת כה אם־תאכלנה נשים פרים עללי טפחים אם־יהרג במקדש אדני כהן ונביא",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-21",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 21,
+        "text": "שכבו לארץ חוצות נער וזקן בתוךתי ובחורי נפלו בחרב הרגת ביום אפך טבחת ךא חמלת",
+        "page": 892
+      },
+      {
+        "id": "eicha-2-22",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 2,
+        "verse": 22,
+        "text": "תקרא כיום מועד מגורי מסביב וךא היה ביום אף־יהוה פליט ושריד אשר־טפחתי ורביתי איבי כלם",
+        "page": 892
+      }
+    ],
+    "3": [
+      {
+        "id": "eicha-3-1",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 1,
+        "text": "אני הגבר ראה עני בשבט עברתו",
+        "page": 892
+      },
+      {
+        "id": "eicha-3-2",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 2,
+        "text": "אותי נהג וילך חשך וךא־אור",
+        "page": 892
+      },
+      {
+        "id": "eicha-3-3",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 3,
+        "text": "אל בי ישב יהפך ידו כל־היום",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-4",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 4,
+        "text": "בלה בשרי ועורי שבר עצמותי",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-5",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 5,
+        "text": "בנה עלי ויקף ראש ותלאה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-6",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 6,
+        "text": "במחשכים הושיבני כמתי עולם",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-7",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 7,
+        "text": "גדר בעדי וךא אצא הכביד נחשתי",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-8",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 8,
+        "text": "גם כי אזעק ואשוע שתם תפלתי",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-9",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 9,
+        "text": "גדר דרכי בגזית נתיבתי עוה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-10",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 10,
+        "text": "דב ארב הוא לי (אריה) [ארי] במסתרים",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-11",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 11,
+        "text": "דרכי סורר ויפשחני שמני שמם",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-12",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 12,
+        "text": "דרך קשתו ויציבני כמטרא לחץ",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-13",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 13,
+        "text": "הביא בכליתי בני אשפתו",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-14",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 14,
+        "text": "הייתי שחק לכל־עמי נגינתם כל־היום",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-15",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 15,
+        "text": "השביעני במרורים הרוני לענה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-16",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 16,
+        "text": "ויגרס בחצץ שני הכפישני באפר",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-17",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 17,
+        "text": "ותזנח משלום נפשי נשיתי טובה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-18",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 18,
+        "text": "ואמר אבד נצחי ותוחלתי מיהוה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-19",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 19,
+        "text": "זכר־עניי ומרודי לענה וראש",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-20",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 20,
+        "text": "זכור תזכור (ותשיח) [ותשוח] עלי נפשי",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-21",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 21,
+        "text": "זאת אשיב אל־לבי על־כן אוחיל",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-22",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 22,
+        "text": "חסדי יהוה כי ךא־תמנו כי ךא־כלו רחמיו",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-23",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 23,
+        "text": "חדשים לבקרים רבה אמונתך",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-24",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 24,
+        "text": "חלקי יהוה אמרה נפשי על־כן אוחיל לו",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-25",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 25,
+        "text": "טוב יהוה לקוו לנפש תדרשנו",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-26",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 26,
+        "text": "טוב ויחיל ודומם לתשועת יהוה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-27",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 27,
+        "text": "טוב לגבר כי־ישא על בנעוריו",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-28",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 28,
+        "text": "ישב בדד וידם כי נטל עליו",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-29",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 29,
+        "text": "יתן בעפר פיהו אולי יש תקוה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-30",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 30,
+        "text": "יתן למכהו לחי ישבע בחרפה",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-31",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 31,
+        "text": "כי ךא יזנח לעולם אדני",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-32",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 32,
+        "text": "כי אם־הוגה ורחם כרב חסדיו",
+        "page": 893
+      },
+      {
+        "id": "eicha-3-33",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 33,
+        "text": "כי ךא ענה מלבו ויגה בני־איש",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-34",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 34,
+        "text": "לדכא תחת רגליו כל אסירי ארץ",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-35",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 35,
+        "text": "להטות משפט־גבר נגד פני עליון",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-36",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 36,
+        "text": "לעות אדם בריבו אדני ךא ראה",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-37",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 37,
+        "text": "מי זה אמר ותהי אדני ךא צוה",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-38",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 38,
+        "text": "מפי עליון ךא תצא הרעות והטוב",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-39",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 39,
+        "text": "מה־יתאונן אדם חי גבר על־חטאו",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-40",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 40,
+        "text": "נחפשה דרכינו ונחקרה ונשובה עד־יהוה",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-41",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 41,
+        "text": "נשא לבבנו אל־כפים אל־אל בשמים",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-42",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 42,
+        "text": "נחנו פשענו ומרינו אתה ךא סלחת",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-43",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 43,
+        "text": "סכותה באף ותרדפנו הרגת ךא חמלת",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-44",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 44,
+        "text": "סכותה בענן לך מעבור תפלה",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-45",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 45,
+        "text": "סחי ומאוס תשימנו בקרב העמים",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-46",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 46,
+        "text": "פצו עלינו פיהם כל־איבינו",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-47",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 47,
+        "text": "פחד ופחת היה לנו השאת והשבר",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-48",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 48,
+        "text": "פלגי־מים תרד עיני על־שבר בת־עמי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-49",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 49,
+        "text": "עיני נגרה וךא תדמה מאין הפגות",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-50",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 50,
+        "text": "עד־ישקיף וירא יהוה משמים",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-51",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 51,
+        "text": "עיני עוללה לנפשי מכל בנות עירי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-52",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 52,
+        "text": "צוד צדוני כצפור איבי חנם",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-53",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 53,
+        "text": "צמתו בבור חיי וידו־אבן בי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-54",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 54,
+        "text": "צפו־מים על־ראשי אמרתי נגזרתי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-55",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 55,
+        "text": "קראתי שמך יהוה מבור תחתיות",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-56",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 56,
+        "text": "קולי שמעת אל־תעלם אזנך לרוחתי לשועתי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-57",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 57,
+        "text": "קרבת ביום אקראך אמרת אל־תירא",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-58",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 58,
+        "text": "רבת אדני ריבי נפשי גאלת חיי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-59",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 59,
+        "text": "ראיתה יהוה עותתי שפטה משפטי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-60",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 60,
+        "text": "ראיתה כל־נקמתם כל־מחשבתם לי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-61",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 61,
+        "text": "שמעת חרפתם יהוה כל־מחשבתם עלי",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-62",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 62,
+        "text": "שפתי קמי והגיונם עלי כל־היום",
+        "page": 894
+      },
+      {
+        "id": "eicha-3-63",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 63,
+        "text": "שבתם וקימתם הביטה אני מנגינתם",
+        "page": 895
+      },
+      {
+        "id": "eicha-3-64",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 64,
+        "text": "תשיב להם גמול יהוה כמעשה ידיהם",
+        "page": 895
+      },
+      {
+        "id": "eicha-3-65",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 65,
+        "text": "תתן להם מגנת־לב תאלתך להם",
+        "page": 895
+      },
+      {
+        "id": "eicha-3-66",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 3,
+        "verse": 66,
+        "text": "תרדף באף ותשמידם מתחת שמי יהוה",
+        "page": 895
+      }
+    ],
+    "4": [
+      {
+        "id": "eicha-4-1",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 1,
+        "text": "איכה יועם זהב ישנא הכתם הטוב תשתפכנה אבני־קדש בראש כל־חוצות",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-2",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 2,
+        "text": "בני ציון היקרים המסלאים בפז איכה נחשבו לנבלי־חרש מעשה ידי יוצר",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-3",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 3,
+        "text": "גם־[תנים] (תנין) חלצו שד היניקו גוריהן בת־עמי לאכזר (כי ענים) [כיעינים] במדבר",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-4",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 4,
+        "text": "דבק לשון יונק אל־חכו בצמא עוללים שאלו לחם פרש אין להם",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-5",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 5,
+        "text": "האכלים למעדנים נשמו בחוצות האמנים עלי תולע חבקו אשפתות",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-6",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 6,
+        "text": "ויגדל עון בת־עמי מחטאת סדם ההפוכה כמו־רגע וךא־חלו בה ידים",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-7",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 7,
+        "text": "זכו נזיריה משלג צחו מחלב אדמו עצם מפנינים ספיר גזרתם",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-8",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 8,
+        "text": "חשך משחור תארם ךא נכרו בחוצות צפד עורם על־עצמם יבש היה כעץ",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-9",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 9,
+        "text": "טובים היו חללי־חרב מחללי רעב שהם יזבו מדקרים מתנובת שדי",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-10",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 10,
+        "text": "ידי נשים רחמניות בשלו ילדיהן היו לברות למו בשבר בת־עמי",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-11",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 11,
+        "text": "כלה יהוה את־חמתו שפך חרון אפו ויצת־אש בציון ותאכל יסדתיה",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-12",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 12,
+        "text": "ךא האמינו מלכי־ארץ (וכל) [כל] ישבי תבל כי יבא צר ואויב בשערי ירושל ם",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-13",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 13,
+        "text": "מחטאות נביאיה עונת כהניה השפכים בקרבה דם צדיקים",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-14",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 14,
+        "text": "נעו עורים בחוצות נגאלו בדם בךא יוכלו יגעו בלבשיהם",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-15",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 15,
+        "text": "סורו טמא קראו למו סורו סורו אל־תגעו כי נצו גם־נעו אמרו בגוים ךא יוספו לגור",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-16",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 16,
+        "text": "פני יהוה חלקם ךא יוסיף להביטם פני כהנים ךא נשאו (זקנים) [וזקנים] ךא חננו",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-17",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 17,
+        "text": "(עודינה) [עודינו] תכלינה עינינו אל־עזרתנו הבל בצפיתנו צפינו אל־גוי ךא יושע",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-18",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 18,
+        "text": "צדו צעדינו מלכת ברחבתינו קרב קצנו מלאו ימינו כי־בא קצנו",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-19",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 19,
+        "text": "קלים היו רדפינו מנשרי שמים על־ההרים דלקנו במדבר ארבו לנו",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-20",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 20,
+        "text": "רוח אפינו משיח יהוה נלכד בשחיתותם אשר אמרנו בצלו נחיה בגוים",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-21",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 21,
+        "text": "שישי ושמחי בת־אדום (יושבתי) [יושבת] בארץ עוץ גם־עליך תעבר־כוס תשכרי ותתערי",
+        "page": 895
+      },
+      {
+        "id": "eicha-4-22",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 4,
+        "verse": 22,
+        "text": "תם־עונך בת־ציון ךא יוסיף להגלותך פקד עונך בת־אדום גלה על־חטאתיך",
+        "page": 896
+      }
+    ],
+    "5": [
+      {
+        "id": "eicha-5-1",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 1,
+        "text": "זכר יהוה מה־היה לנו (הביט) [הביטה] וראה את־חרפתנו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-2",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 2,
+        "text": "נחלתנו נהפכה לזרים בתינו לנכרים",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-3",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 3,
+        "text": "יתומים היינו (אין) [ואין] אב אמתינו כאלמנות",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-4",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 4,
+        "text": "מימינו בכסף שתינו עצינו במחיר יבאו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-5",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 5,
+        "text": "על צוארנו נרדפנו יגענו (לא) [וךא] הונח־לנו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-6",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 6,
+        "text": "מצרים נתנו יד אשור לשבע לחם",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-7",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 7,
+        "text": "אבתינו חטאו (אינם) [ואינם] (אנחנו) [ואנחנו] עונתיהם סבלנו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-8",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 8,
+        "text": "עבדים משלו בנו פרק אין מידם",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-9",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 9,
+        "text": "בנפשנו נביא לחמנו מפני חרב המדבר",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-10",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 10,
+        "text": "עורנו כתנור נכמרו מפני זלעפות רעב",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-11",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 11,
+        "text": "נשים בציון ענו בתךת בערי יהודה",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-12",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 12,
+        "text": "שרים בידם נתלו פני זקנים ךא נהדרו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-13",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 13,
+        "text": "בחורים טחון נשאו ונערים בעץ כשלו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-14",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 14,
+        "text": "זקנים משער שבתו בחורים מנגינתם",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-15",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 15,
+        "text": "שבת משוש לבנו נהפך לאבל מחלנו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-16",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 16,
+        "text": "נפלה עטרת ראשנו אוי־נא לנו כי חטאנו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-17",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 17,
+        "text": "על־זה היה דוה לבנו על־אלה חשכו עינינו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-18",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 18,
+        "text": "על הר־ציון ששמם שועלים הלכו־בו",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-19",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 19,
+        "text": "אתה יהוה לעולם תשב כסאל לדור ודור",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-20",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 20,
+        "text": "למה לנצח תשכחנו תעזבנו לארך ימים",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-21",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 21,
+        "text": "השיבנו יהוה ׀ אליך (ונשוב) [ונשובה] חדש ימינו כקדם",
+        "page": 896
+      },
+      {
+        "id": "eicha-5-22",
+        "book": "איכה",
+        "book_en": "Lamentations",
+        "book_id": "eicha",
+        "chapter": 5,
+        "verse": 22,
+        "text": "כי אם־מאס מאסתנו קצפת עלינו עד־מאד השיבנו יהוה אליך ונשובה חדש ימינו כקדם",
+        "page": 896
+      }
+    ]
+  }
+}
