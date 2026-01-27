@@ -65,9 +65,6 @@ class BibleSearch:
 
         self._load_data()
 
-    def _repo_data_dir(self) -> Path:
-        return Path(__file__).resolve().parents[2] / "bible_pdf_qa_agent_debug_ui" / "data"
-
     def _resolve_faiss_path(self) -> Path:
         env_path = os.getenv("BIBLE_FAISS_INDEX_PATH")
         if env_path:
@@ -78,9 +75,6 @@ class BibleSearch:
         candidate = self.data_dir / "index.faiss"
         if candidate.exists():
             return candidate
-        repo_candidate = self._repo_data_dir() / "index.faiss"
-        if repo_candidate.exists():
-            return repo_candidate
         fallback = self.data_dir.parent / "index.faiss"
         return fallback
 
@@ -92,7 +86,7 @@ class BibleSearch:
         if candidate.exists():
             return candidate
         else:
-            raise FileNotFoundError(f"Index meta file not found at {env_path}")
+            raise FileNotFoundError(f"Index meta file not found at {candidate}")
 
     def _resolve_chunks_path(self) -> Path:
         env_path = os.getenv("BIBLE_CHUNKS_PATH")
@@ -102,7 +96,7 @@ class BibleSearch:
         if candidate.exists():
             return candidate
         else:
-            raise FileNotFoundError(f"Chunks file not found at {env_path}")
+            raise FileNotFoundError(f"Chunks file not found at {candidate}")
 
     def _load_data(self):
         """Load all Bible data from JSON files."""
@@ -178,11 +172,6 @@ class BibleSearch:
 
         meta = json.loads(self.chunk_index_meta_path.read_text(encoding="utf-8"))
         self.chunk_ids = list(meta.get("chunk_ids") or [])
-
-        # Use repo index if chunks are from repo
-        repo_index = self._repo_data_dir() / "index.faiss"
-        if repo_index.exists() and self.chunks_path == self._repo_data_dir() / "chunks.json":
-            self.faiss_index_path = repo_index
 
     def _load_faiss_index(self):
         """Load the FAISS index (required)."""

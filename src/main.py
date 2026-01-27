@@ -95,7 +95,7 @@ def interactive_mode(agent):
             response = agent.query(user_input)
             print(response)
         except Exception as e:
-            print(f"שגיאה: {e}")
+            print(f"Error: {e}")
         print()
 
 

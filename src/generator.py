@@ -206,8 +206,9 @@ class ResponseGenerator:
                 # JSONL requires a single line per record.
                 f.write(json.dumps(payload, ensure_ascii=False) + "\n")
         except Exception as e:
-            print(f"Failed to write log entry: {e}")
-            print(payload)
+            import sys
+            print(f"Failed to write log entry: {e}", file=sys.stderr)
+            print(payload, file=sys.stderr)
 
     def _make_json_safe(self, obj):
         if isinstance(obj, dict):
@@ -428,19 +429,6 @@ class ResponseGenerator:
             History: Context shows Genesis chapter 5
             Enhanced: "מה קרה בבראשית פרק 4?"
         """
-        # # If no pronouns or reference phrases, return original
-        # pronouns = ["הוא", "היא", "הם", "הן", "אותו", "אותה", "לו", "לה", "ממנו", "ממנה", "עליו", "עליה"]
-        # # Demonstrative pronouns and phrases that reference previously mentioned things
-        # demonstratives = ["הזה", "הזאת", "האלה", "ההבטחה הזאת", "הדבר הזה", "המקום הזה", "הסיפור הזה"]
-        # reference_phrases = ["פרק הקודם", "הפרק הקודם", "בפרק הקודם", "הפסוק הקודם", "מה שהזכרת", "אחר כך", "לפני כן", "שם", "באותו", "בהמשך"]
-        
-        # has_pronoun = any(pronoun in query for pronoun in pronouns)
-        # has_demonstrative = any(demo in query for demo in demonstratives)
-        # has_reference = any(phrase in query for phrase in reference_phrases)
-        
-        # if not has_pronoun and not has_demonstrative and not has_reference:
-        #     return query
-            
         # If no conversation history, can't enhance
         if not conversation_history or len(conversation_history) == 0:
             return query
@@ -503,7 +491,8 @@ Enhanced query (in Hebrew):"""
                 
         except Exception as e:
             # If enhancement fails, return original query
-            print(f"Query enhancement failed: {e}")
+            import sys
+            print(f"Query enhancement failed: {e}", file=sys.stderr)
             return query
         
 
