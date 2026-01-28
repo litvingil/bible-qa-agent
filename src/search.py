@@ -393,11 +393,27 @@ class BibleSearch:
 
     def _embed_text(self, text: str) -> np.ndarray:
         """Get embedding for text using OpenAI."""
+        embedding_model = os.getenv("EMBEDDING_MODEL", "text-embedding-3-large")
         response = self.openai_client.embeddings.create(
-            model=os.getenv("EMBEDDING_MODEL", "text-embedding-3-large"),
+            model=embedding_model,
             input=text
         )
-        return np.array(response.data[0].embedding, dtype=np.float32)
+        embedding = np.array(response.data[0].embedding, dtype=np.float32)
+        
+        # Validate embedding dimension matches the FAISS index
+        if self.faiss_index is not None:
+            index_dim = self.faiss_index.d
+            import pdb; pdb.set_trace()
+            if len(embedding) != index_dim:
+                raise ValueError(
+                    f"Embedding dimension mismatch!\n"
+                    f"  FAISS index expects: {index_dim} dimensions\n"
+                    f"  Current model '{embedding_model}' produces: {len(embedding)} dimensions\n\n"
+                    f"The index was likely built with a different embedding model.\n"
+                    f"To fix this, set EMBEDDING_MODEL in your .env file to match the model used to build the index."
+                )
+        
+        return embedding
 
     def search_keyword(
         self,
