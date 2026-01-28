@@ -55,6 +55,7 @@ class BibleAgent:
 
         # Enhance query with context using LLM-based enhancement
         enhanced_query = self.generator.enhance_query(user_query, conversation_history=history)
+        print(f"Enhanced query: {enhanced_query}")
 
         # Generate response
         response, cited_sources = self.generator.generate(
