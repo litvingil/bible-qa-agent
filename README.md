@@ -7,7 +7,7 @@ A Hebrew Bible (Tanakh) Q&A agent that **searches locally** using BM25 + FAISS a
 
 ---
 
-[Features](#features) • [Demo](#demo) • [How It Works](#how-it-works) • [Installation](#installation) • [Examples](#conversation-examples)
+[Features](#features) • [Installation](#installation) • [How It Works](#how-it-works) • [Examples](#conversation-examples)
 
 </div>
 
@@ -24,39 +24,6 @@ A Hebrew Bible (Tanakh) Q&A agent that **searches locally** using BM25 + FAISS a
 | **Conversation-Aware**      | Resolves Hebrew pronouns/references (e.g., "הוא" → "אברהם")           |
 | **ReAct-Style**             | Structured tool loop for search → read → synthesize workflow          |
 
----
-
-## Demo
-
-```bash
-# Interactive mode
-python -m src.main
-
-# Single question
-python -m src.main -q "מי בנה את התיבה?"
-```
-
----
-
-## How It Works
-
-```mermaid
-graph LR
-    A[User Query] --> B[Query Enhancement]
-    B --> C[Tool Loop]
-    C --> D{search_bible}
-    C --> E{read_verses}
-    C --> F{read_chapter}
-    D --> G[BM25 + FAISS]
-    E --> H[Exact Text Retrieval]
-    G --> I[Synthesize Answer]
-    H --> I
-    I --> J[Hebrew Response + Citations]
-```
-
-1. **Query Enhancement** — Resolves pronouns and references using conversation context
-2. **Tool Loop** — Iteratively searches and reads until sufficient context is gathered
-3. **Synthesis** — Generates answer strictly from retrieved text with numbered footnotes
 
 ---
 
@@ -112,6 +79,27 @@ data/bible/
     ├── index_meta.json
     └── index.faiss
 ```
+---
+
+## How It Works
+
+```mermaid
+graph LR
+    A[User Query] --> B[Query Enhancement]
+    B --> C[Tool Loop]
+    C --> D{search_bible}
+    C --> E{read_verses}
+    C --> F{read_chapter}
+    D --> G[BM25 + FAISS]
+    E --> H[Exact Text Retrieval]
+    G --> I[Synthesize Answer]
+    H --> I
+    I --> J[Hebrew Response + Citations]
+```
+
+1. **Query Enhancement** — Resolves pronouns and references using conversation context
+2. **Tool Loop** — Iteratively searches and reads until sufficient context is gathered
+3. **Synthesis** — Generates answer strictly from retrieved text with numbered footnotes
 
 ---
 
