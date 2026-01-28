@@ -403,7 +403,6 @@ class BibleSearch:
         # Validate embedding dimension matches the FAISS index
         if self.faiss_index is not None:
             index_dim = self.faiss_index.d
-            import pdb; pdb.set_trace()
             if len(embedding) != index_dim:
                 raise ValueError(
                     f"Embedding dimension mismatch!\n"
