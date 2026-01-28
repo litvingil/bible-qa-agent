@@ -80,7 +80,7 @@ def main() -> None:
     parser.add_argument("--overlap", type=int, default=2)
     parser.add_argument("--batch-size", type=int, default=64)
     args = parser.parse_args()
-
+    
     pdf_path = Path(args.pdf_path).expanduser()
     if not pdf_path.exists():
         raise SystemExit(f"PDF not found: {pdf_path}")

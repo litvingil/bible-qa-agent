@@ -444,7 +444,7 @@ class ResponseGenerator:
         
         context_text = "\n".join(context_messages)
         
-        enhancement_prompt = f"""You are helping to improve Bible queries by resolving Hebrew pronouns and references from context.
+        enhancement_prompt = f"""You are helping to improve Bible search queries by resolving ambiguous pronouns from conversation context.
 
 Conversation context:
 {context_text}
@@ -452,21 +452,50 @@ Conversation context:
 Original query: {query}
 
 Your task:
-1. Identify Hebrew pronouns (הוא, היא, לו, עליו, etc.) in the query
-2. Identify reference phrases (פרק הקודם, מה שהזכרת, אחר כך, etc.)
-3. Based on the conversation context, replace pronouns with specific names (משה, אברהם, etc.)
-4. Replace reference phrases with specific details (book name, chapter number)
+1. Identify AMBIGUOUS Hebrew pronouns (הוא, היא, לו, עליו, זה, etc.) that refer to a SPECIFIC entity mentioned earlier
+2. Replace ONLY those pronouns with the specific name/entity they refer to
+3. Keep temporal/sequential references (אחר כך, בהמשך) - just add context if needed
 
-Examples:
-- "מה הוא עשה?" → "מה משה עשה?" (if Moses was discussed)
-- "ומה אלוהים הבטיח לו?" → "ומה אלוהים הבטיח ליעקב?" (if Jacob was discussed)
-- "מה קרה בפרק הקודם?" → "מה קרה בבראשית פרק 4?" (if Genesis chapter 5 was discussed)
+CRITICAL RULES - DO NOT VIOLATE:
 
-CRITICAL: 
-- You MUST respond in Hebrew only
-- Return ONLY the enhanced query, nothing else
-- NO explanations, NO English text, NO additional commentary
-- If nothing needs enhancement, return the original query exactly as is
+1. PRESERVE USER INTENT: Never change what the user is asking for
+   - "יש עוד מישהו...?" asks about OTHER people → keep it about others
+   - "מה עוד...?" asks for ADDITIONAL info → keep asking for more
+   - "האם יש אחרים...?" asks about OTHERS → don't replace with specific name
+
+2. ONLY RESOLVE BACKWARD REFERENCES: 
+   - "מה הוא עשה?" → resolve "הוא" to whoever was discussed (e.g., "מה אברהם עשה?")
+   - "יש עוד מישהו?" → DO NOT CHANGE - "מישהו" is asking about unknown others
+
+3. QUESTIONS ABOUT "OTHERS" - NEVER REPLACE:
+   - עוד מישהו (someone else) → KEEP AS IS
+   - אחרים (others) → KEEP AS IS  
+   - מישהו אחר (someone else) → KEEP AS IS
+   - עוד דמויות (other figures) → KEEP AS IS
+
+4. ADD CONTEXT, DON'T REPLACE INTENT:
+   - "יש עוד מישהו שמקבל הבטחה דומה?" 
+   - If Abraham's promise was discussed, enhance to:
+   - "יש עוד מישהו שמקבל הבטחה דומה להבטחה שקיבל אברהם?"
+   - NOT: "מה ה' הבטיח לאברהם?" ← THIS IS WRONG
+
+EXAMPLES:
+
+✅ CORRECT enhancements:
+- "מה הוא עשה?" → "מה משה עשה?" (resolving pronoun)
+- "למה היא מיוחדת?" → "למה רות מיוחדת?" (resolving pronoun)
+- "יש עוד מישהו כזה?" → "יש עוד מישהו כזה כמו אברהם?" (adding context, keeping intent)
+- "מה המשותף ביניהן?" → "מה המשותף בין רות ואסתר?" (resolving "ביניהן")
+
+❌ WRONG enhancements:
+- "יש עוד מישהו?" → "מה אברהם עשה?" ← WRONG: changed the question entirely
+- "מה עוד קרה?" → "מה קרה עם אברהם?" ← WRONG: removed "עוד" (more)
+- "האם יש דמויות אחרות?" → "מי זו שרה?" ← WRONG: asked about others, gave specific
+
+RESPOND WITH:
+- The enhanced query in Hebrew only
+- NO explanations, NO English
+- If nothing needs enhancement, return the original query exactly
 
 Enhanced query (in Hebrew):"""
 
@@ -477,7 +506,7 @@ Enhanced query (in Hebrew):"""
                     {"role": "system", "content": "You are an expert in Hebrew language processing and pronoun resolution. You MUST always respond in Hebrew only, never in English."},
                     {"role": "user", "content": enhancement_prompt}
                 ],
-                temperature=0.3
+                temperature=0.1
             )
             
             enhanced = response.choices[0].message.content.strip()
